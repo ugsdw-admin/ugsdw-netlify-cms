@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <body>
+        {% include header.html %}
+
+        <main>
+            <section class="main-content">
+                {{ content }}
+            </section>
+
+            {% unless page.nosidebar %}
+                <aside>
+                    {% include sidebar.html %}
+                </aside>
+            {% endunless %}
+        </main>
+
+        {% include footer.html %}
+    </body>
+</html>

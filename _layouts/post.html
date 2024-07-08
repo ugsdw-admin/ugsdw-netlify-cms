@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <body>
+        {% include header.html %}
+
+        <main style="margin-top: 5em;">
+            <section class="main-content">
+                <h1>{{ page.title }}</h1>
+                <span class="byline">
+                    {% if page.author and page.author != "" %}
+                        By <span class="author">{{ page.author }}</span>
+                    {% endif %}
+                    <span class="date">{{ page.date | date: '%A, %B %-d, %Y' }}</span>
+                </span>
+
+                {{ content | smartify }}
+
+                <div class="post-nav">
+                    {% if page.previous.url %}
+                        <a class="back" href="{{ page.previous.url }}">
+                            &laquo;&nbsp;{{page.previous.title}}
+                        </a>
+                    {% endif %}
+                    {% if page.next.url %}
+                        <a class="forward" href="{{ page.next.url }}">
+                            {{page.next.title}}&nbsp;&raquo;
+                        </a>
+                    {% endif %}
+                </div>
+            </section>
+
+            <aside>
+                {% include sidebar.html %}
+            </aside>
+        </main>
+
+        {% include footer.html %}
+    </body>
+</html>
