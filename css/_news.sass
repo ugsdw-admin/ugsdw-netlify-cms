@@ -1,0 +1,46 @@
+@import variables
+
+.post-container
+    max-width: $center-width
+    width: calc(100% - 2em)
+    margin: 0 auto
+    font-size: 11pt
+
+    a
+        text-decoration: none !important
+        color: black !important
+
+    article
+        display: flex
+        background-color: #eee
+        min-height: 10em
+        border-left: 3px solid $red
+        margin-top: 1em
+
+    .img-wrapper
+        display: flex
+        flex-direction: column
+
+    img
+        flex-grow: 1
+        width: 10em
+        margin: 0
+        object-fit: cover
+        object-position: center
+
+    .content-wrapper
+        padding: 1.5em 1.5em 1.5em 1.5em
+
+    h2
+        margin-top: 0.5em
+
+    article:hover h2
+        color: red
+
+@media #{$small-screen}
+    .post-container img
+        display: none
+
+    .post-container h2
+        margin: 0 0 0.5em 0
+
