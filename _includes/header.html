@@ -1,0 +1,93 @@
+<header>
+    <div class="banner">
+        <button id="menu">
+            <div></div>
+            <div></div>
+            <div></div>
+        </button>
+
+        <a class="logo-wrapper" href="/" alt="Union of Grinnell Student Dining Workers (UGSDW)">
+            <img title="Union of Grinnell Student Dining Workers (UGSDW)"
+                alt="Union of Grinnell Student Dining Workers (UGSDW)"
+                class="main-logo" src="/assets/logo_xlarge.png">
+        </a>
+
+        <nav class="main" id="left-nav">
+            <div class="dropdown">
+                <a>Students</a>
+                <ul>
+                    
+                </ul>
+            </div>
+
+            <div class="dropdown">
+                <a href="/members/">Resources</a>
+                <ul>
+                    <a href="/members/">Member Resources</a>
+                    <li><a href="/members/contract">Your Contract</a></li>
+                    <li><a href="/members/rights">Your Rights</a></li>
+                    <li><a href="/members/dues">Dues</a></li>
+                </ul>
+            </div>
+        </nav>
+
+        <nav class="main" id="right-nav">
+            <div class="dropdown">
+                <a href="/about/">About</a>
+                <ul>
+                    <li><a href="/about/">UGSDW</a></li>
+                    <li><a href="/news/">Latest News</a></li>
+                    <li><a href="/about/constitution">Constitution</a></li>
+                    <li><a href="/about/contact">Contact</a></li>
+                    <li><a href="/donate/">Donate</a></li>
+                    <li><a href="/about/press">Press</a></li>
+                </ul>
+            </div>
+
+            <a class="accent-nav-button" href="/join/">JOIN UGSDW</a>
+        </nav>
+    </div>
+
+    <nav class="mobile">
+        <a href="/about/">About</a>
+        <div class="indent">
+            <a href="/news/">Latest News</a>
+            <a href="/about/constitution">Constitution</a>
+            <a href="/about/contact">Contact</a>
+            <a href="/about/press">Press</a>
+        </div>
+        <a href="/together/">Campaigns</a>
+        <div class="indent">
+            <a href="/together/">Expansion</a>
+            <a href="/together/faq/">FAQ</a>
+            <a href="/donate/">Support</a>
+        </div>
+        <a href="/members/">Members</a>
+        <div class="indent">
+            <a href="/members/contract">Your Contract</a>
+            <a href="/members/rights">Your Rights</a>
+            <a href="/members/dues">Dues</a>
+        </div>
+        <a class="accent-nav-button" href="/join/">JOIN UGSDW</a>
+    </nav>
+
+    <script type="text/javascript" defer>
+        document.addEventListener("readystatechange", function() {
+            if (document.readyState !== "complete") return; 
+
+            var menuButton = document.querySelector("#menu");
+            var menu = document.querySelector("nav.mobile");
+            var height = ~~menu.getBoundingClientRect().height + 20;
+            var heightStr = "-" + height + "px";
+            menu.style.marginTop = heightStr;
+
+            var open = false;
+
+            menuButton.addEventListener("click", function() {
+                open = !open;
+
+                menu.style.marginTop = open ? "0" : heightStr;
+            });
+        });
+    </script>
+</header>

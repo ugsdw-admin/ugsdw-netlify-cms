@@ -1,12 +1,53 @@
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  {% seo %}
-  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-  {% feed_meta %}
-  {% if jekyll.environment == 'production' and site.google_analytics %}
-    {% include google-analytics.html %}
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#bb2222">
+  {% if page.noindex %}
+      <meta name="robots" content="noindex">
   {% endif %}
-  <script src="https://identity-js.netlify.com/v1/netlify-identity-widget.js"></script>
+  {% if page.excerpt %} {% assign blurb = page.excerpt | strip_html | strip_newlines %}
+  {% else %} {% assign blurb = site.description %} {% endif %}
+  <meta name="description" content="{{ blurb }}"> 
+
+  {% if page.url == "/" %} {% assign title = page.title %}
+  {% else %} {% assign title = page.title | append: " – UGSDW" %} {% endif %}
+
+  <title>{{ title }}</title>
+
+  <!-- FACEBOOK META INFO -->
+  {% assign images = page.content | split:'img ' %} 
+  {% for image in images %}
+      {% if image contains 'src' %}
+          {% assign html = image | split:"/>" | first %}
+          {% assign tags = html | split:" " %}
+          {% for tag in tags %}
+              {% if tag contains 'src' %}
+              {% assign first_image = tag | split:"src=" | last %}
+              {% assign end = first_image | size | minus: 2 %}
+              {% assign first_image_url = first_image | slice: 1, end %}
+              {% endif %}
+          {% endfor %}
+          {% break %}
+      {% endif %}
+  {% endfor %}
+  
+  <meta property="og:title" name="UGSDW | {{ title }}" />
+  <meta property="og:description" content="{{ blurb }}" />
+  <meta property="og:url" content="{{ site.url }}/{{ page.url }}" />
+  <meta property="og:type" content="article" />
+
+  <meta property="og:image" content="{{ site.url }}/{{ first_image_url }}" />
+  <link rel="image_src" href="{{ site.url }}/{{ first_image_url }}"  />
+
+
+  <link rel="icon" href="/assets/logo_128.png">
+
+  <!-- CSS -->
+  <link href="https://fonts.googleapis.com/css?family=Arvo:400,700|Gentium+Basic:400,400i,700" rel="stylesheet">
+  <link rel="stylesheet" href="/css/main.css">
+  {% for name in page.css %}
+  <link rel="stylesheet" href="/css/{{ name }}.css">
+  {% endfor %}
+
+  <!-- JS -->
 </head>
