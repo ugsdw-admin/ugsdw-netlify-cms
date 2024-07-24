@@ -25,10 +25,9 @@
             <div class="dropdown">
                 <a href="/members/">Resources</a>
                 <ul>
-                    <a href="/members/">Member Resources</a>
-                    <li><a href="/members/contract">Your Contract</a></li>
-                    <li><a href="/members/rights">Your Rights</a></li>
-                    <li><a href="/members/dues">Dues</a></li>
+                    {% for item in site.data.navigation.resources %}
+                        <li><a href="/resources/{{ item.link }}">{{ item.name }}</a></li>
+                    {% endfor %}
                 </ul>
             </div>
         </nav>
@@ -37,12 +36,9 @@
             <div class="dropdown">
                 <a href="/about/">About</a>
                 <ul>
-                    <li><a href="/about/">UGSDW</a></li>
-                    <li><a href="/news/">Latest News</a></li>
-                    <li><a href="/about/constitution">Constitution</a></li>
-                    <li><a href="/about/contact">Contact</a></li>
-                    <li><a href="/donate/">Donate</a></li>
-                    <li><a href="/about/press">Press</a></li>
+                    {% for item in site.data.navigation.about %}
+                        <li><a href="/about/{{ item.link }}">{{ item.name }}</a></li>
+                    {% endfor %}
                 </ul>
             </div>
 
@@ -51,24 +47,22 @@
     </div>
 
     <nav class="mobile">
+        <a href="/about/">Students</a>
+        <div class="indent">
+            {% for item in site.data.navigation.students %}
+                <a href="/students/{{ item.link }}">{{ item.name }}</a>
+            {% endfor %}
+        <a href="/resources/">Resources</a>
+        <div class="indent">
+            {% for item in site.data.navigation.resources %}
+                <a href="/resources/{{ item.link }}">{{ item.name }}</a>
+            {% endfor %}
+        </div>
         <a href="/about/">About</a>
         <div class="indent">
-            <a href="/news/">Latest News</a>
-            <a href="/about/constitution">Constitution</a>
-            <a href="/about/contact">Contact</a>
-            <a href="/about/press">Press</a>
-        </div>
-        <a href="/together/">Campaigns</a>
-        <div class="indent">
-            <a href="/together/">Expansion</a>
-            <a href="/together/faq/">FAQ</a>
-            <a href="/donate/">Support</a>
-        </div>
-        <a href="/members/">Members</a>
-        <div class="indent">
-            <a href="/members/contract">Your Contract</a>
-            <a href="/members/rights">Your Rights</a>
-            <a href="/members/dues">Dues</a>
+            {% for item in site.data.navigation.about %}
+                <a href="/about/{{ item.link }}">{{ item.name }}</a>
+            {% endfor %}
         </div>
         <a class="accent-nav-button" href="/join/">JOIN UGSDW</a>
     </nav>
