@@ -19,13 +19,6 @@ defaults:
             type: posts
         values:
             layout: post
-    -
-        scope:
-            path: ""
-            type: petitions
-        values:
-            layout: petition
-
 
 sass:
     style: compressed
