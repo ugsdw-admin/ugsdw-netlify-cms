@@ -18,3 +18,30 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Categories", name: "categories", widget: "string", required: false}
+  - name: 'config'
+    label: 'Config'
+    editor:
+      preview: false
+    files:
+      - label: 'Navigation Bar'
+        name: 'navigation'
+        file: '_data/navigation.yml'
+        fields:
+          - label: 'Students'
+            name: 'students'
+            widget: 'list'
+            fields:
+              - { label: Name, name: name, widget: string }
+              - { label: Link, name: link, widget: string }
+          - label: 'Resources'
+            name: 'resources'
+            widget: 'list'
+            fields:
+              - { label: Name, name: name, widget: string }
+              - { label: Link, name: link, widget: string }
+          - label: 'About'
+            name: 'about'
+            widget: 'list'
+            fields:
+              - { label: Name, name: name, widget: string }
+              - { label: Link, name: link, widget: string }

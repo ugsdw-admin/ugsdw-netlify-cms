@@ -16,7 +16,8 @@
             <div class="dropdown">
                 <a>Students</a>
                 <ul>
-                    
+                    {% for item in site.data.navigation.students %}
+                    <li><a href="{{ site.baseurl }}{{ students.link }}">{{ <students class="name"></students> }}</a></li>
                 </ul>
             </div>
 
