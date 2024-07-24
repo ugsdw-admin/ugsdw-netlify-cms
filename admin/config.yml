@@ -40,3 +40,36 @@ collections: # A list of collections the CMS should be able to edit
                 fields:
                   - { label: Name, name: name, widget: string }
                   - { label: Link, name: link, widget: string }
+          - label: "Center-left Navigation Button"
+            name: "left-center-button"
+            widget: "object"
+            summary: "{{fields.name}}"
+            fields:
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Link", name: "link", widget: "string" }
+              - label: "Contents"
+                name: "contents"
+                widget: 'list'
+                fields:
+                  - { label: Name, name: name, widget: string }
+                  - { label: Link, name: link, widget: string }
+          - label: "Center-right Navigation Button"
+            name: "right-center-button"
+            widget: "object"
+            summary: "{{fields.name}}"
+            fields:
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Link", name: "link", widget: "string" }
+              - label: "Contents"
+                name: "contents"
+                widget: 'list'
+                fields:
+                  - { label: Name, name: name, widget: string }
+                  - { label: Link, name: link, widget: string }
+          - label: "Far-right Navigation Button"
+            name: "right-end-button"
+            widget: "object"
+            summary: "{{fields.name}}"
+            fields:
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Link", name: "link", widget: "string" }
