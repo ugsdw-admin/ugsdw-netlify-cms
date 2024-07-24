@@ -1,5 +1,24 @@
-students:
-  - link: "HELLO-08y 98yh lukh  "
-    name: HELLO!
-resources: null
-about: null
+left-end-button:
+  name: Students
+  link: null
+  contents:
+    - link: test
+      name: test
+
+left-center-button:
+  name: Resources
+  link: null
+  contents:
+    - link: test
+      name: test
+
+right-center-button:
+  name: About
+  link: null
+  contents:
+    - link: test
+      name: test
+
+right-end-button:
+  name: Join UGSDW
+  link: join

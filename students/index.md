@@ -1,4 +1,5 @@
 ---
+permalink: /hello/hello
 ---
 
 test
