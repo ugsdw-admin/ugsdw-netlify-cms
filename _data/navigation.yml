@@ -1,5 +1,5 @@
 students:
-  - name: test
-    link: test
+  - link: HELLO
+    name: HELLO!
 resources: null
 about: null
