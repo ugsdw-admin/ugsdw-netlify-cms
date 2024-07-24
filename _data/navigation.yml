@@ -1,5 +1,5 @@
 students:
-
-resources:
-
-about:
+  - name: test
+    link: /test
+resources: null
+about: null
