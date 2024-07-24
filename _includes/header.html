@@ -17,7 +17,7 @@
                 <a>Students</a>
                 <ul>
                     {% for item in site.data.navigation.students %}
-                        <li><a href="/{{ students.link }}/">{{ students.name }}</a></li>
+                        <li><a href="/{{ item.link }}/">{{ item.name }}</a></li>
                     {% endfor %}
                 </ul>
             </div>
