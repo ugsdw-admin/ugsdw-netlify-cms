@@ -1,6 +1,6 @@
 banner:
   image: /assets/uploads/temp-front-picture.jpg
-  text: GRINNEL WORKS BECAUSE WE DO.
+  text: GRINNELL WORKS BECAUSE WE DO.
   buttons:
     - name: JOIN THE UNION
       link: /join/
