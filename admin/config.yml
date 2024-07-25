@@ -31,7 +31,7 @@ collections: # A list of collections the CMS should be able to edit
             name: "president"
             widget: "object"
             summary: "{{fields.name}}"
-            collapsed: "true"
+            collapsed: true
             fields:
               - { label: "Name", name: "name", widget: "string" }
               - { label: "Email", name: "email", widget: "string" }
@@ -39,14 +39,14 @@ collections: # A list of collections the CMS should be able to edit
             name: "sec-treas"
             widget: "object"
             summary: "{{fields.name}}"
-            collapsed: "true"
+            collapsed: true
             fields:
               - { label: "Name", name: "name", widget: "string" }
               - { label: "Email", name: "email", widget: "string" }
           - label: "UGSDW Members At-Large"
             name: "at-large"
             widget: "list"
-            collapsed: "true"
+            collapsed: true
             fields:
               - { label: "Name", name: "name", widget: "string" }
               - { label: "Email", name: "email", widget: "string" }
@@ -54,14 +54,14 @@ collections: # A list of collections the CMS should be able to edit
             name: "press-secretary"
             widget: "object"
             summary: "{{fields.name}}"
-            collapsed: "true"
+            collapsed: true
             fields:
               - { label: "Name", name: "name", widget: "string" }
               - { label: "Email", name: "email", widget: "string" }
           - label: "UGSDW Advisors"
             name: "advisors"
             widget: "list"
-            collapsed: "true"
+            collapsed: true
             fields:
               - { label: "Name", name: "name", widget: "string" }
               - { label: "Email", name: "email", widget: "string" }
@@ -73,7 +73,7 @@ collections: # A list of collections the CMS should be able to edit
             name: "left-end-button"
             widget: "object"
             summary: "{{fields.name}}"
-            collapsed: "true"
+            collapsed: true
             fields:
               - { label: "Name", name: "name", widget: "string" }
               - { label: "Link", name: "link", widget: "string" }
@@ -87,7 +87,7 @@ collections: # A list of collections the CMS should be able to edit
             name: "left-center-button"
             widget: "object"
             summary: "{{fields.name}}"
-            collapsed: "true"
+            collapsed: true
             fields:
               - { label: "Name", name: "name", widget: "string" }
               - { label: "Link", name: "link", widget: "string" }
@@ -101,7 +101,7 @@ collections: # A list of collections the CMS should be able to edit
             name: "right-center-button"
             widget: "object"
             summary: "{{fields.name}}"
-            collapsed: "true"
+            collapsed: true
             fields:
               - { label: "Name", name: "name", widget: "string" }
               - { label: "Link", name: "link", widget: "string" }
@@ -115,7 +115,7 @@ collections: # A list of collections the CMS should be able to edit
             name: "right-end-button"
             widget: "object"
             summary: "{{fields.name}}"
-            collapsed: "true"
+            collapsed: true
             fields:
               - { label: "Name", name: "name", widget: "string" }
               - { label: "Link", name: "link", widget: "string" }
