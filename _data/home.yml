@@ -2,10 +2,16 @@ banner:
   image: /assets/uploads/temp-front-picture.jpg
   text: GRINNELL WORKS BECAUSE WE DO.
   buttons:
+    - name: CONTRACT
+      link: contract
+      type: false
     - accent: true
       name: JOIN THE UNION
       link: /join/
       type: true
+    - name: RESOURCES
+      link: resources
+      type: false
 news:
   text: LATEST
   max-articles: 5
