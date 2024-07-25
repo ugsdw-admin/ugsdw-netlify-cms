@@ -23,6 +23,48 @@ collections: # A list of collections the CMS should be able to edit
     editor:
       preview: false
     files:
+      - label: "UGSDW Officer List"
+        name: "officers"
+        file: "_data/officers.yml"
+        fields:
+          - label: "UGSDW President"
+            name: "president"
+            widget: "object"
+            summary: "{{fields.name}}"
+            collapsed: "true"
+            fields:
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Email", name: "email", widget: "string" }
+          - label: "UGSDW Secretary-Treasurer"
+            name: "sec-treas"
+            widget: "object"
+            summary: "{{fields.name}}"
+            collapsed: "true"
+            fields:
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Email", name: "email", widget: "string" }
+          - label: "UGSDW Members At-Large"
+            name: "at-large"
+            widget: "list"
+            collapsed: "true"
+            fields:
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Email", name: "email", widget: "string" }
+          - label: "UGSDW Press Secretary"
+            name: "press-secretary"
+            widget: "object"
+            summary: "{{fields.name}}"
+            collapsed: "true"
+            fields:
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Email", name: "email", widget: "string" }
+          - label: "UGSDW Advisors"
+            name: "advisors"
+            widget: "list"
+            collapsed: "true"
+            fields:
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Email", name: "email", widget: "string" }
       - label: "Navigation Bar"
         name: "navigation"
         file: "_data/navigation.yml"
@@ -31,6 +73,7 @@ collections: # A list of collections the CMS should be able to edit
             name: "left-end-button"
             widget: "object"
             summary: "{{fields.name}}"
+            collapsed: "true"
             fields:
               - { label: "Name", name: "name", widget: "string" }
               - { label: "Link", name: "link", widget: "string" }
@@ -44,6 +87,7 @@ collections: # A list of collections the CMS should be able to edit
             name: "left-center-button"
             widget: "object"
             summary: "{{fields.name}}"
+            collapsed: "true"
             fields:
               - { label: "Name", name: "name", widget: "string" }
               - { label: "Link", name: "link", widget: "string" }
@@ -57,6 +101,7 @@ collections: # A list of collections the CMS should be able to edit
             name: "right-center-button"
             widget: "object"
             summary: "{{fields.name}}"
+            collapsed: "true"
             fields:
               - { label: "Name", name: "name", widget: "string" }
               - { label: "Link", name: "link", widget: "string" }
@@ -70,6 +115,7 @@ collections: # A list of collections the CMS should be able to edit
             name: "right-end-button"
             widget: "object"
             summary: "{{fields.name}}"
+            collapsed: "true"
             fields:
               - { label: "Name", name: "name", widget: "string" }
               - { label: "Link", name: "link", widget: "string" }

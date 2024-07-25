@@ -1,1 +1,41 @@
-items:
+president:
+    name: Hannah Sweet and Conrad Dahm
+    email: ugsdw.org@gmail.com
+sec-treas:
+    name:  Leo Goldman
+    email:  goldmanleo@grinnell.edu
+at-large:
+   -
+        name: Noelle Bueher
+        email: buehrern@grinnell.edu
+   -
+        name: Kelly Banfield
+        email: banfield@grinnell.edu
+   -
+        name: Kyra Pruszinski
+        email: pruszins@grinnell.edu
+   -
+        name: Amika Matteson
+        email: matteson@grinnell.edu
+   -
+        name: Lena Wiebe
+        email: wiebelen@grinnell.edu
+   -
+        name: Donovan Wilcox
+        email: wilcoxdo@grinnell.edu
+   -
+        name: Sam Hiller
+        email: hillersa@grinnell.edu
+   -
+        name: Morgan Smith
+        email: smithmor@grinnell.edu
+press-secretary:
+    name: Collective Position
+    email: ugsdw.org@gmail.com
+advisors:
+   -
+        name: Jules Covitz
+        email: covitzju@grinnell.edu
+   -
+        name: Parris King-Levine
+        email: kinglevi@grinnell.edu
