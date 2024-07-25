@@ -52,6 +52,7 @@
             {% for item in site.data.navigation.left-end-button.contents %}
                 <a href="{{ item.link }}">{{ item.name }}</a>
             {% endfor %}
+        </div>
         <a href="{{ site.data.navigation.left-center-button.link }}">{{ site.data.navigation.left-center-button.name }}</a>
         <div class="indent">
             {% for item in site.data.navigation.left-center-button.contents %}
@@ -60,7 +61,7 @@
         </div>
         <a href="{{ site.data.navigation.right-center-button.link }}">{{ site.data.navigation.right-center-button.name }}</a>
         <div class="indent">
-            {% for item in site.data.navigation.right-end-button.contents %}
+            {% for item in site.data.navigation.right-center-button.contents %}
                 <a href="{{ item.link }}">{{ item.name }}</a>
             {% endfor %}
         </div>
