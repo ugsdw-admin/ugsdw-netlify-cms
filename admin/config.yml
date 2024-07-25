@@ -54,7 +54,19 @@ collections: # A list of collections the CMS should be able to edit
             widget: "list"
             collapsed: true
             fields:
-              - { label: "Text", name: "text", widget: "string" }
+              - label: "Big Text Item"
+                name: "big"
+                widget: "object"
+                summary: "{{fields.big-text}}"
+                fields:
+                  - { label: "Big Text", name: "big-text", pattern: ['.{,6}', "Must have less than 7 characters"] }
+                  - { label: "Subtext", name: "subtext", pattern: ['.{,40}', "Must have less than 41 characters"] }
+              - label: "Small Text Item"
+                name: "small"
+                widget: "object"
+                summary: "{{fields.text}}"
+                fields:
+                  - { label: "Text", name: "text", pattern: ['.{,150}', "Must have less than 151 characters"] }
           - label: "Join Section"
             name: "join"
             widget: "object"

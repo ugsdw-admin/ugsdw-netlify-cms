@@ -57,7 +57,12 @@ title: UGSDW | Union of Grinnell Student Dining Workers
     <div class="accomplishments">
         {% for item in site.data.home.benefits %}
             <div class="item">
-                {{ item.text }}
+                {{% if item.type == "big" %}}
+                    <span class="big">{{ item.big-text }}</span>
+                    <span class="desc">{{ item.subtext }}</span>
+                {{% else %}}
+                    {{ item.text }}
+                {{% endif %}}
             </div>
         {% endfor %}
     </div>
