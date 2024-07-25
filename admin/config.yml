@@ -39,6 +39,7 @@ collections: # A list of collections the CMS should be able to edit
                 name: "buttons"
                 widget: 'list'
                 fields:
+                  - { label: "Accented Button", name: "type", widget: "boolean" }
                   - { label: "Name", name: "name", widget: "string" }
                   - { label: "Link", name: "link", widget: "string" }
           - label: "News Section"
@@ -163,4 +164,4 @@ collections: # A list of collections the CMS should be able to edit
             collapsed: true
             fields:
               - { label: "Name", name: "name", widget: "string" }
-              - { label: "Link", name: "link", widget: "string", required: false }
+              - { label: "Link", name: "link", widget: "string" }
