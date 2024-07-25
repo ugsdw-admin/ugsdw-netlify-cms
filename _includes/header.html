@@ -47,24 +47,24 @@
     </div>
 
     <nav class="mobile">
-        <a href="/about/">Students</a>
+        <a href="{{ site.data.navigation.left-end-button.link }}">{{ site.data.navigation.left-end-button.name }}</a>
         <div class="indent">
-            {% for item in site.data.navigation.students %}
-                <a href="/students/{{ item.link }}">{{ item.name }}</a>
+            {% for item in site.data.navigation.left-end-button.contents %}
+                <a href="{{ item.link }}">{{ item.name }}</a>
             {% endfor %}
-        <a href="/resources/">Resources</a>
+        <a href="{{ site.data.navigation.left-center-button.link }}">{{ site.data.navigation.left-center-button.name }}</a>
         <div class="indent">
-            {% for item in site.data.navigation.resources %}
-                <a href="/resources/{{ item.link }}">{{ item.name }}</a>
-            {% endfor %}
-        </div>
-        <a href="/about/">About</a>
-        <div class="indent">
-            {% for item in site.data.navigation.about %}
-                <a href="/about/{{ item.link }}">{{ item.name }}</a>
+            {% for item in site.data.navigation.left-center-button.contents %}
+                <a href="{{ item.link }}">{{ item.name }}</a>
             {% endfor %}
         </div>
-        <a class="accent-nav-button" href="/join/">JOIN UGSDW</a>
+        <a href="{{ site.data.navigation.right-center-button.link }}">{{ site.data.navigation.right-center-button.name }}</a>
+        <div class="indent">
+            {% for item in site.data.navigation.right-end-button.contents %}
+                <a href="{{ item.link }}">{{ item.name }}</a>
+            {% endfor %}
+        </div>
+        <a class="accent-nav-button" href="{{ site.data.navigation.right-end-button.link }}">{{ site.data.navigation.right-end-button.name }}</a>
     </nav>
 
     <script type="text/javascript" defer>
