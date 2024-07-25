@@ -1,9 +1,7 @@
 left-end-button:
   name: Students
   link: "null"
-  contents:
-    - link: test
-      name: test
+  contents: []
 left-center-button:
   name: Resources
   link: "null"
