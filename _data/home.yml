@@ -1,0 +1,28 @@
+# data for the home page (/index.html)
+
+banner:
+  image:
+  text: GRINNEL WORKS BECAUSE WE DO.
+  buttons:
+    - name: JOIN THE UNION
+      link: /join/
+
+news:
+  text: LATEST
+  max-articles: 5
+
+#benefits block
+benefits: 
+  - text: <span class="big">$13.50</span><span class="desc">Wage under new contract</span>
+  - text: CA Choice (Stipend/Room Grant)
+  - text: Paid Sick Leave
+
+#join block
+join:
+  member-count: 750
+  button-link: /join/
+
+#members block (buttons for the resources section)
+resources:
+  - name: PAY DUES
+    link: /members/dues/

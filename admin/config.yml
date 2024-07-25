@@ -6,7 +6,7 @@ media_folder: "assets/uploads" # Folder where user uploaded files should go
 
 collections: # A list of collections the CMS should be able to edit
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Posts - News and Press Releases" # Used in the UI, ie.: "New Post"
+    label: "Posts - News & Press" # Used in the UI, ie.: "New Post"
     folder: "_posts/" # The path to the folder where the documents are stored
     sort: "date:desc" # Default is title:asc
     create: true # Allow users to create new documents in this collection
@@ -23,6 +23,51 @@ collections: # A list of collections the CMS should be able to edit
     editor:
       preview: false
     files:
+      - label: "Home Page Configuration"
+        name: "home"
+        file: "_data/home.yml"
+        fields:
+          - label: "Banner"
+            name: "banner"
+            widget: "object"
+            summary: "{{fields.text}}"
+            collapsed: true
+            fields:
+              - { label: "Image", name: "image", widget: "image", allow_multiple: false }
+              - { label: "Text", name: "text", widget: "string" }
+              - label: "Buttons"
+                name: "buttons"
+                widget: 'list'
+                fields:
+                  - { label: "Name", name: "name", widget: "string" }
+                  - { label: "Link", name: "link", widget: "string" }
+          - label: "News Section"
+            name: "news"
+            widget: "object"
+            collapsed: true
+            fields:
+              - { label: "Text", name: "text", widget: "string" }
+              - { label: "Maximum Displayed Articles", name: "max-articles", widget: "number", default: 5, vaule_type: "int", min: 1, max: 20 }
+          - label: "Benefits Section"
+            name: "benefits"
+            widget: "list"
+            collapsed: true
+            fields:
+              - { label: "Text", name: "text", widget: "string" }
+          - label: "Join Section"
+            name: "join"
+            widget: "object"
+            collapsed: true
+            fields:
+              - { label: "Number of registered members", name: "member-count", widget: "number", vaule_type: "int", min: 0 }
+              - { label: "Button Link", name: "button-link", widget: "string" }
+          - label: "Resources Section"
+            name: "resources"
+            widget: "list"
+            collapsed: true
+            fields:
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Link", name: "link", widget: "string" }
       - label: "Current UGSDW Officers - update regularly"
         name: "officers"
         file: "_data/officers.yml"
