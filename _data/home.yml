@@ -13,10 +13,6 @@ news:
   text: LATEST
   max-articles: 5
 benefits:
-  - text: <span class="big">$13.50</span><span class="desc">Wage under new
-      contract</span>
-  - text: CA Choice (Stipend/Room Grant)
-  - text: Paid Sick Leave
 join:
   member-count: 750
   button-link: /join/
