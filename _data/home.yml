@@ -5,6 +5,7 @@ banner:
     - accent: false
       name: JOIN THE UNION
       link: /join/
+      type: true
 news:
   text: LATEST
   max-articles: 5
