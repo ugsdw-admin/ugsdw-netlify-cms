@@ -2,13 +2,12 @@
 nosidebar: true
 css: home
 title: UGSDW | Union of Grinnell Student Dining Workers
-banner-text: GRINNELL WORKS BECAUSE WE DO.
 ---
 <!-- IMAGE BANNER AT TOP OF PAGE.
      URL of image is found is css/home.sass 
      You can also just replace "front-image.jpg" in the assets/ folder. -->
 <section class="first-block">
-    <span>{{ page.banner-text | smartify | replace: ' ', '&nbsp;' }}</span>
+    <span>{{ site.data.home.banner.text | smartify | replace: ' ', '&nbsp;' }}</span>
     {% for button in site.data.home.banner.buttons %}
     <a id="join" class="button" href="{{ button.link }}">{{ button.name }}</a>
     {% endfor %}
