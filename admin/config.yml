@@ -6,7 +6,7 @@ media_folder: "assets/uploads" # Folder where user uploaded files should go
 
 collections: # A list of collections the CMS should be able to edit
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Post" # Used in the UI, ie.: "New Post"
+    label: "Posts - News and Press Releases" # Used in the UI, ie.: "New Post"
     folder: "_posts/" # The path to the folder where the documents are stored
     sort: "date:desc" # Default is title:asc
     create: true # Allow users to create new documents in this collection
@@ -19,11 +19,11 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Categories", name: "categories", widget: "string", required: false}
   - name: "config"
-    label: "Config"
+    label: "Data Configuration"
     editor:
       preview: false
     files:
-      - label: "UGSDW Officer List"
+      - label: "Current UGSDW Officers - update regularly"
         name: "officers"
         file: "_data/officers.yml"
         fields:
@@ -65,7 +65,7 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - { label: "Name", name: "name", widget: "string" }
               - { label: "Email", name: "email", widget: "string" }
-      - label: "Navigation Bar"
+      - label: "Navigation Bar - do not change without care!"
         name: "navigation"
         file: "_data/navigation.yml"
         fields:
