@@ -53,7 +53,7 @@ collections: # A list of collections the CMS should be able to edit
             name: "benefits"
             widget: "list"
             collapsed: true
-            fields:
+            types:
               - label: "Big Text Item"
                 name: "big"
                 widget: "object"
