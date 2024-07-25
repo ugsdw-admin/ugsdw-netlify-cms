@@ -1,16 +1,16 @@
 left-end-button:
   name: Students
-  link: "null"
+  link: ""
   contents: []
 left-center-button:
   name: Resources
-  link: "null"
+  link: ""
   contents:
     - link: test
       name: test
 right-center-button:
   name: About
-  link: "null"
+  link: ""
   contents:
     - link: test
       name: test
