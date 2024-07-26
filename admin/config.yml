@@ -38,9 +38,10 @@ collections: # A list of collections the CMS should be able to edit
               - label: "Buttons"
                 name: "buttons"
                 widget: 'list'
+                hint: "It is highly reccommended to keep this between 1-3 buttons. No more than 4!"
                 fields:
-                  - { label: "Accented Button", name: "accent", widget: "boolean" }
-                  - { label: "Name", name: "name", widget: "string" }
+                  - { label: "Accented Button", name: "accent", widget: "boolean", required: false, default: false }
+                  - { label: "Name", name: "name", widget: "string", pattern: ['^(.|\n){0,12}$', "Maximum 12 characters"] }
                   - { label: "Link", name: "link", widget: "string" }
           - label: "News Section"
             name: "news"
@@ -53,6 +54,7 @@ collections: # A list of collections the CMS should be able to edit
             name: "benefits"
             widget: "list"
             collapsed: true
+            hint: "It is highly reccommended to keep this at 6 items. Make sure the formatting looks good on both desktops and phones!"
             types:
               - label: "Big Text Item"
                 name: "big"
