@@ -17,12 +17,12 @@ benefits:
   - type: big
     big-text: $13.50
     subtext: Wage under new contract
-  - type: big
-    big-text: CHOICE
-    subtext: Between a stipend and room grant for CAs
-  - type: big
+  - type: medium
     big-text: SAFETY
     subtext: From your workplace being eliminated
+  - type: medium
+    big-text: CHOICE
+    subtext: Between a stipend and room grant for CAs
 join:
   member-count: 750
   button-link: /join/
