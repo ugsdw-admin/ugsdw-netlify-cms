@@ -8,13 +8,15 @@ title: UGSDW | Union of Grinnell Student Dining Workers
      You can also just replace "front-image.jpg" in the assets/ folder. -->
 <section class="first-block">
     <span>{{ site.data.home.banner.text | smartify | replace: ' ', '&nbsp;' }}</span>
-    {% for button in site.data.home.banner.buttons %}
-        {% if button.accent %}
-            <a id="contract-fight" class="button" href="{{ button.link }}">{{ button.name }}</a>
-        {% else %}
-            <a id="join" class="button" href="{{ button.link }}">{{ button.name }}</a>
-        {% endif %}
-    {% endfor %}
+        <div class="banner-buttons">
+            {% for button in site.data.home.banner.buttons %}
+                {% if button.accent %}
+                    <a id="accent" class="button" href="{{ button.link }}">{{ button.name }}</a>
+                {% else %}
+                    <a id="normal" class="button" href="{{ button.link }}">{{ button.name }}</a>
+                {% endif %}
+            {% endfor %}
+        </div>
 </section>
 
 <!-- NEWS -->
