@@ -61,7 +61,7 @@ collections: # A list of collections the CMS should be able to edit
                 fields:
                   - { label: "Big Text", name: "big-text", pattern: ['^(.|\n){0,6}$', "Must have less than 7 characters"] }
                   - { label: "Subtext", name: "subtext", pattern: ['^(.|\n){0,40}$', "Must have less than 41 characters"] }
-               label: "Medium Text Item"
+              - label: "Medium Text Item"
                 name: "medium"
                 widget: "object"
                 summary: "{{fields.big-text}}"
