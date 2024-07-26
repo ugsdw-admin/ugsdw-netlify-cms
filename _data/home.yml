@@ -22,10 +22,16 @@ benefits:
     subtext: From your workplace being eliminated
   - type: medium
     big-text: CHOICE
-    subtext: Between a stipend and room grant for CAs
+    subtext: Between a stipend and room grant (for CAs)
   - type: medium
     big-text: PAID
     subtext: Sick leave for 2 days and beyond
+  - type: medium
+    big-text: BREAKS
+    subtext: 15 minutes paid break for every four hours of work
+  - type: medium
+    big-text: PROTECTION
+    subtext: Greivance procedures for every workplace
 join:
   member-count: 750
   button-link: /join/
