@@ -23,6 +23,9 @@ benefits:
   - type: medium
     big-text: CHOICE
     subtext: Between a stipend and room grant for CAs
+  - type: medium
+    big-text: PAID
+    subtext: Sick leave for 2 days and beyond
 join:
   member-count: 750
   button-link: /join/
