@@ -9,10 +9,20 @@ banner:
     - name: RESOURCES
       link: resources
       type: false
+      accent: false
 news:
   text: LATEST
   max-articles: 5
 benefits:
+  - type: big
+    big-text: $13.50
+    subtext: Wage under new contract
+  - type: big
+    big-text: CHOICE
+    subtext: Between a stipend and room grant for CAs
+  - type: big
+    big-text: SAFETY
+    subtext: From your workplace being eliminated
 join:
   member-count: 750
   button-link: /join/
