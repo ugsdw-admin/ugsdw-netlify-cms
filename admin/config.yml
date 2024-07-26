@@ -59,21 +59,21 @@ collections: # A list of collections the CMS should be able to edit
                 widget: "object"
                 summary: "{{fields.big-text}}"
                 fields:
-                  - { label: "Big Text", name: "big-text", pattern: ['^(.|\n){0,6}$', "Must have less than 7 characters"] }
-                  - { label: "Subtext", name: "subtext", pattern: ['^(.|\n){0,40}$', "Must have less than 41 characters"] }
+                  - { label: "Big Text", name: "big-text", pattern: ['^(.|\n){0,6}$', "Maximum 6 characters"], hint: "5 character max, 6 with a period." }
+                  - { label: "Subtext", name: "subtext", pattern: ['^(.|\n){0,33}$', "Maximum 33 characters"] }
               - label: "Medium Text Item"
                 name: "medium"
                 widget: "object"
                 summary: "{{fields.big-text}}"
                 fields:
-                  - { label: "Big Text", name: "big-text", pattern: ['^(.|\n){0,6}$', "Must have less than 7 characters"] }
-                  - { label: "Subtext", name: "subtext", pattern: ['^(.|\n){0,40}$', "Must have less than 41 characters"] }
+                  - { label: "Big Text", name: "big-text", pattern: ['^(.|\n){0,11}$', "Maximum 11 characters"] }
+                  - { label: "Subtext", name: "subtext", pattern: ['^(.|\n){0,70}$', "Maximum 70 characters"] }
               - label: "Small Text Item"
                 name: "small"
                 widget: "object"
                 summary: "{{fields.text}}"
                 fields:
-                  - { label: "Text", name: "text", pattern: ['^(.|\n){0,150}$', "Must have less than 151 characters"] }
+                  - { label: "Text", name: "text", pattern: ['^(.|\n){0,150}$', "Maximum 150 characters"] }
           - label: "Join Section"
             name: "join"
             widget: "object"
