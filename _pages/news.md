@@ -5,7 +5,8 @@ css: news-wrapper
 ---
 # Latest News
 
-{% assign current_date = now | date: 'yyyyMMdd' | integer %}
+{% assign current_date = now | date: "%Y" "%m" "%d" %}
+{{ current_date }}
 
 <div class="post-container">
         {% for post in site.posts limit: site.data.home.news.max-articles %}
