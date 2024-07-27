@@ -50,6 +50,12 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - { label: "Text", name: "text", widget: "string" }
               - { label: "Maximum Displayed Articles", name: "max-articles", widget: "number", default: 5, vaule_type: "int", min: 1, max: 20 }
+              - label: "Buttons"
+                name: "buttons"
+                widget: 'list'
+                fields:
+                  - { label: "Name", name: "name", widget: "string", pattern: ['^(.|\n){0,23}$', "Maximum 23 characters"] }
+                  - { label: "Link", name: "link", widget: "string" }
           - label: "Benefits Section"
             name: "benefits"
             widget: "list"
