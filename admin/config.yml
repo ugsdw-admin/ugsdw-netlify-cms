@@ -18,7 +18,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Subtitle", name: "subtitle", widget: "markdown", required: false}
       - {label: "Author", name: "author", widget: "string", required: false}
-      - {label: "Archival Date", name: "archive-date", widget: "datetime", date_format: "DD.MM.YYYY", time_format: false, format: "yyyyMMdd" }
+      - {label: "Archival Date", name: "archive-date", widget: "datetime", date_format: "L", time_format: false }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "page"
     label: "Pages"
