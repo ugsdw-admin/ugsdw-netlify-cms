@@ -1,6 +1,7 @@
 ---
 title: News
 permalink: /news
+css: news-wrapper
 ---
 # Latest News
 
