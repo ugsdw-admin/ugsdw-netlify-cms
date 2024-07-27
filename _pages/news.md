@@ -5,7 +5,7 @@ css: news-wrapper
 ---
 # Latest News
 
-{% assign current_date = now | date: "%Y" "%m" "%d" %}
+{% assign current_date = 'now' | date: "%Y" "%m" "%d" %}
 {{ current_date }}
 
 <div class="post-container">
