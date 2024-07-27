@@ -4,7 +4,7 @@ permalink: /news
 ---
 # `Latest News`
 
-```
+
 <div class="post-container">
         {% for post in site.posts limit: site.data.home.news.max-articles %}
         <a href="{{ post.url }}">
@@ -30,6 +30,4 @@ permalink: /news
             </article>
         </a>
         {% endfor %}
-
     </div>
-```
