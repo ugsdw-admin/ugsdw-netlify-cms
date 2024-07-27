@@ -37,7 +37,7 @@ collections: # A list of collections the CMS should be able to edit
     editor:
       preview: false
     files:
-      - label: "Home Page Configuration"
+      - label: "Home Page"
         name: "home"
         file: "_data/home.yml"
         fields:
@@ -153,7 +153,7 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - { label: "Name", name: "name", widget: "string" }
               - { label: "Email", name: "email", widget: "string" }
-      - label: "Navigation Bar - do not change without care!"
+      - label: "Navigation Bar"
         name: "navigation"
         file: "_data/navigation.yml"
         fields:

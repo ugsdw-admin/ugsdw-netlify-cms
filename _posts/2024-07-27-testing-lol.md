@@ -1,5 +1,5 @@
 ---
-publish-date: "{{year}}{{month}}{{day}}"
+publish-date: {{year}}{{month}}{{day}}
 layout: post
 title: testing lol
 subtitle: idk man
