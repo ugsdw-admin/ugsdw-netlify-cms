@@ -24,6 +24,8 @@ collections: # A list of collections the CMS should be able to edit
     folder: "_pages/"
     label_singluar: "Page"
     create: true
+    editor: 
+      preview: false
     fields: 
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Link", name: "permalink", widget: "string" }
