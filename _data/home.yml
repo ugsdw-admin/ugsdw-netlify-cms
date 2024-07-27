@@ -3,9 +3,8 @@ banner:
   text: GRINNELL WORKS BECAUSE WE DO.
   buttons:
     - name: RESOURCES
-      link: resources
-      type: false
       accent: false
+      link: resources
     - name: JOIN
       accent: false
       link: /
@@ -18,6 +17,9 @@ banner:
 news:
   text: LATEST
   max-articles: 5
+  buttons:
+    - name: See More
+      link: /news
 benefits:
   - type: big
     big-text: $13.50

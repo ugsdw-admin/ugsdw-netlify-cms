@@ -49,7 +49,9 @@ title: UGSDW | Union of Grinnell Student Dining Workers
     </div>
 
     <div style="text-align: center; margin-top: 2em">
-        <a class="button" href="/news/">See More</a>
+        {% for button in site.data.home.news.buttons %}
+            <a class="button" href="{{ button.link }}">{{ button.name }}</a>
+        {% endfor %}
     </div>
 </section>
 
