@@ -2,7 +2,7 @@
 title: News
 permalink: /news
 ---
-# `Latest News`
+# Latest News
 
 
 <div class="post-container">
