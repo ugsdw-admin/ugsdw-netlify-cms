@@ -6,11 +6,10 @@ css: news-wrapper
 # Latest News
 
 {% assign current_date = now | date: 'yyyyMMdd' | integer %}
-{% assign date_to_check = post.archive-date | date: 'yyyyMMdd' | integer %}
 
 <div class="post-container">
         {% for post in site.posts limit: site.data.home.news.max-articles %}
-            {% if date_to_check <= current_date %}
+            {% if date_to_check <= post.archive-date %}
                 <a href="{{ post.url }}">
                     <article>
                         <div class="img-wrapper">
