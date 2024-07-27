@@ -17,8 +17,9 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Subtitle", name: "subtitle", widget: "markdown", required: false}
+      - {label: "Author", name: "author", widget: "string", required: false}
+      - {label: "Archival Date", name: "archive-date", widget: "datetime", date_format: "DD.MM.YYYY", time_format: false, format: "yyyyMMdd" }
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Categories", name: "categories", widget: "string", required: false}
   - name: "page"
     label: "Pages"
     folder: "_pages/"
