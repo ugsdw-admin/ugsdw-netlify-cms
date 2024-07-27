@@ -14,7 +14,7 @@ collections: # A list of collections the CMS should be able to edit
     editor: 
       preview: false
     fields: # The fields each document in this collection have
-      - {label: "Date", name: "date", widget: "hidden", default: "{{year}}{{month}}{{day}}"}
+      - {label: "Date", name: "publish-date", widget: "hidden", default: "{{year}}{{month}}{{day}}"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Subtitle", name: "subtitle", widget: "markdown", required: false}
