@@ -14,7 +14,7 @@ permalink: /news
                     {% for image in images %}
                         {% if image contains 'src' %}
                             {% assign html = image | split:"/>" | first %}
-                            <img loading="lazy" {{ html  }} />
+                            <img loading="lazy" {{ html }} />
                             {% break %}
                         {% endif %}
                     {% endfor %}
