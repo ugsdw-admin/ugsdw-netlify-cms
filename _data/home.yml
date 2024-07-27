@@ -11,9 +11,6 @@ banner:
     - name: NEW STUDENTS
       accent: false
       link: /
-    - name: CONTRACT
-      accent: false
-      link: /
 news:
   text: LATEST
   max-articles: 5
