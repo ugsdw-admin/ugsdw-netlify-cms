@@ -2,7 +2,7 @@
 layout: post
 title: image tests
 subtitle: testing images...
-archive-date: 20240611
+date: 20240611
 ---
 testing images!
 
