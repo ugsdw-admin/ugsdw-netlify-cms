@@ -6,7 +6,7 @@ media_folder: "assets/uploads" # Folder where user uploaded files should go
 
 collections: # A list of collections the CMS should be able to edit
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Posts - News & Press" # Used in the UI, ie.: "New Post"
+    label: "Posts (News & Press)" # Used in the UI, ie.: "New Post"
     folder: "_posts/" # The path to the folder where the documents are stored
     sort: "date:desc" # Default is title:asc
     create: true # Allow users to create new documents in this collection
@@ -16,8 +16,19 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Categories", name: "categories", widget: "string", required: false}
+  - name: "page"
+    label: "Pages"
+    folder: "_pages/"
+    label_singluar: "Page"
+    create: true
+    fields: 
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Link", name: "permalink", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+    sort: 
   - name: "config"
     label: "Data Configuration"
     editor:
