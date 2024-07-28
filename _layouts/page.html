@@ -7,10 +7,7 @@
         <main>
             <section class="main-content">
                 {% if page.contents %}
-                 it fucking worked
                     {% for item in page.contents %}
-                        item
-                        {{ item.type }}
                         {% if item.type == "text" %}
                             {{ item.text }}
                         {% elsif item.type == "button" %}
