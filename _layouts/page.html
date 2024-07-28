@@ -11,9 +11,9 @@
                     {% for item in page.contents %}
                         item
                         {{ item.type }}
-                        {% if item.type == text %}
+                        {% if item.type == "text" %}
                             {{ item.text }}
-                        {% elsif item.type == button %}
+                        {% elsif item.type == "button" %}
                         <a href="{{ item.link }}" class="
                                                         {% if item.gold == true %}
                                                             gold button
