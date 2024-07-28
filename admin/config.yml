@@ -30,6 +30,7 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Link", name: "permalink", widget: "string" }
       - { label: "Include Sidebar", name: "nosidebar", widget: "boolean", default: true, required: false}
+      - { label: "CSS", name: "css", widget: "hidden", default: "news-wrapper, special"}
       - label: "Page Contents"
         name: "contents"
         widget: "list"
@@ -39,6 +40,8 @@ collections: # A list of collections the CMS should be able to edit
             widget: "object"
             fields:
               - { label: "Text", name: "text", widget: "markdown" }
+          - label: "Line Break"
+            name: "break"
           - label: "Button"
             name: "button"
             widget: "object"
@@ -46,6 +49,11 @@ collections: # A list of collections the CMS should be able to edit
               - { label: "Gold Button", name: "gold", widget: "boolean", default: false, required: false }
               - { label: "Link", name: "link", widget: "string" }
               - { label: "Text", name: "text", widget: "string" }
+          - label: "PDF"
+            name: "pdf"
+            fields:
+              - { label: "Link", name: "link", widget: "string" }
+              - { label: "Size", name: "size", widget: "number", default: 800 }
   - name: "config"
     label: "Data Configuration"
     editor:

@@ -11,13 +11,17 @@
                         {% if item.type == "text" %}
                             {{ item.text }}
                         {% elsif item.type == "button" %}
-                        <a href="{{ item.link }}" class="
-                                                        {% if item.gold == true %}
-                                                            gold button
-                                                        {% else %}
-                                                            button
-                                                        {% endif %}"
-                                                        >{{ item.text }}</a>
+                            <a href="{{ item.link }}" class="
+                                                            {% if item.gold == true %}
+                                                                gold button
+                                                            {% else %}
+                                                                button
+                                                            {% endif %}"
+                                                            >{{ item.text }}</a>
+                        {% elsif item.type == "break" %}
+                            <br>
+                        {% elsif item.type == "pdf" %}
+                            <iframe height="{{ item.size }}" src="{{ item.link }}"></iframe>
                         {% endif %}
                     {% endfor %}
                 {% else %}
