@@ -2,6 +2,7 @@
 title: test
 permalink: /test
 nosidebar: false
+layout: page
 contents:
   - type: text
     text: Hope this works lmao
