@@ -25,7 +25,6 @@ defaults:
         type: "pages"
       values:
         layout: page
-        permalink: /:basename/
 
 sass:
     style: compressed
