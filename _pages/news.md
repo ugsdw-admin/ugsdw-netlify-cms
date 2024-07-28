@@ -7,7 +7,7 @@ css: news-wrapper
 
 <div class="post-container">
         {% for post in site.posts limit: site.data.home.news.max-articles %}
-            {% assign post-date = post.date | "%Y%m%d" | integer %}
+            {% assign post-date = post.date | date: "%Y%m%d" | integer %}
             {% if post-date > site.data.global.archive-date %}
                 <a href="{{ post.url }}">
                     <article>
