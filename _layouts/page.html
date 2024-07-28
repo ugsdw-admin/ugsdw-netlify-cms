@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <body>
+        {% include header.html %}
+
+        <main>
+            <section class="main-content">
+                {% if page.contents %}
+                    {% for item in page.contents %}
+                        {% if item.type == text %}
+                            {{ item.text }}
+                        {% elsif item.type == button %}
+                        <a href="{{ item.link }}" class="
+                                                        {% if item.gold == true %}
+                                                            gold button
+                                                        {% else %}
+                                                            button
+                                                        {% endif %}"
+                                                        >{{ item.text }}</a>
+                        {% endif %}
+                    {% endfor %}
+                {% else %}
+                    {{ content }}
+                {% endif %}
+            </section>
+
+            {% unless page.nosidebar %}
+                <aside>
+                    {% include sidebar.html %}
+                </aside>
+            {% endunless %}
+        </main>
+
+        {% include footer.html %}
+    </body>
+</html>
