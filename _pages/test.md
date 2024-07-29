@@ -3,6 +3,7 @@ title: test
 permalink: /test
 nosidebar: false
 layout: page
+css: news-wrapper, special
 contents:
   - type: text
     text: Hope this works lmao
