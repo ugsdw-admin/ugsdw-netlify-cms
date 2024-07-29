@@ -5,7 +5,7 @@
         {% include header.html %}
 
         <main>
-            <section class="main-content">
+            <section class="main-content" markdown="1">
                 {% if page.contents %}
                     {% for item in page.contents %}
                         {% if item.type == "text" %}
