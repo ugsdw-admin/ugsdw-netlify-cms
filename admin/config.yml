@@ -99,7 +99,7 @@ collections: # A list of collections the CMS should be able to edit
                 widget: 'list'
                 hint: "It is highly reccommended to keep this between 1-3 buttons. No more than 4!"
                 fields:
-                  - { label: "Accented Button", name: "accent", widget: "boolean", required: false, default: false }
+                # - { label: "Accented Button", name: "accent", widget: "boolean", required: false, default: false }
                   - { label: "Name", name: "name", widget: "string", pattern: ['^(.|\n){0,12}$', "Maximum 12 characters"] }
                   - { label: "Link", name: "link", widget: "string" }
           - label: "News Section"
