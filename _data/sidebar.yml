@@ -1,0 +1,9 @@
+text: "The only independent undergraduate labor union in the country, UGSDW
+  fights for fair pay and benefits for workers at Grinnell College. "
+buttons:
+  - accent: true
+    name: Donate
+    link: /donate
+  - accent: false
+    name: Contact Your Rep.
+    link: /contact
