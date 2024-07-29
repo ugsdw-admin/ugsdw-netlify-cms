@@ -1,7 +1,7 @@
 ---
 title: News Archive
 permalink: /news-archive
-nosidebar: true
+nosidebar: false
 css: news-wrapper
 contents:
   - type: text
