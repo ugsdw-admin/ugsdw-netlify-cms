@@ -75,13 +75,13 @@ collections: # A list of collections the CMS should be able to edit
         file: "_data/sidebar.yml"
         fields:
           - { label: "Text", name: "text", widget: "string" }
-          label: "Buttons"
-                name: "buttons"
-                widget: 'list'
-                fields:
-                  - { label: "Accented Button", name: "accent", widget: "boolean", required: false, default: false }
-                  - { label: "Name", name: "name", widget: "string", pattern: ['^(.|\n){0,54}$', "Maximum 54 characters"] }
-                  - { label: "Link", name: "link", widget: "string" }
+          - label: "Buttons"
+            name: "buttons"
+            widget: 'list'
+            fields:
+              - { label: "Accented Button", name: "accent", widget: "boolean", required: false, default: false }
+              - { label: "Name", name: "name", widget: "string", pattern: ['^(.|\n){0,54}$', "Maximum 54 characters"] }
+              - { label: "Link", name: "link", widget: "string" }
       - label: "Home Page"
         name: "home"
         file: "_data/home.yml"
