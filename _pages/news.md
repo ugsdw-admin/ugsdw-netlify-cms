@@ -1,7 +1,7 @@
 ---
 title: News
 permalink: /news
-nosidebar: true
+nosidebar: false
 css: news-wrapper
 contents:
   - type: text
