@@ -45,11 +45,11 @@ collections: # A list of collections the CMS should be able to edit
             fields:
           - label: "Press Release Tagline"
             name: "press-release"
-            fields:
+            fields: []
           - label: "Button"
             name: "button"
             widget: "object"
-            fields:
+            fields: []
               - { label: "Gold Button", name: "gold", widget: "boolean", default: false, required: false }
               - { label: "Link", name: "link", widget: "string" }
               - { label: "Text", name: "text", widget: "string" }
