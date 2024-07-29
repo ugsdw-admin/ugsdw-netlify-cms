@@ -1,8 +1,8 @@
 {% for button in site.data.sidebar.buttons %}
     {% if button.accent %}
-        <a class="gold button" href="{{ button.link }}">{{ button.text }}</a> 
+        <a class="gold button" href="{{ button.link }}">{{ button.name }}</a> 
     {% else %}
-        <a class="button" href="{{ button.link }}">{{ button.text }}</a> 
+        <a class="button" href="{{ button.link }}">{{ button.name }}</a> 
     {% endif %}
     <br><br>
 {% endfor %}
