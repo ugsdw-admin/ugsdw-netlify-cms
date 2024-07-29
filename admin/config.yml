@@ -56,6 +56,11 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - { label: "Link", name: "link", widget: "string" }
               - { label: "Size", name: "size", widget: "number", default: 800 }
+          - label: "News Section"
+            name: "news"
+            fields:
+              - { label: "Max # of Articles to Show", name: "limit", widget: "number" }
+              - { label: "Archive Options", name: "archive-filter", widget: "string", hint: "Use all, archive-only, or recent-only (case sensitive)." }
   - name: "config"
     label: "Data Configuration"
     editor:
