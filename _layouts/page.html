@@ -5,11 +5,11 @@
         {% include header.html %}
 
         <main>
-            <section class="main-content" markdown="1">
+            <section class="main-content">
                 {% if page.contents %}
                     {% for item in page.contents %}
                         {% if item.type == "text" %}
-                            {{ item.text }}
+                            {{ item.text | markdownify }}
                         {% elsif item.type == "button" %}
                             <a href="{{ item.link }}" class="
                                                             {% if item.gold == true %}
