@@ -10,4 +10,7 @@ contents:
     gold: false
     link: please
     text: WORK!!
+  - type: news
+    limit: 5
+    archive-filter: all
 ---
