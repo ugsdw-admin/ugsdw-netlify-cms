@@ -1,7 +1,12 @@
-<a class="gold button" href="/donate/">Donate</a> 
-<br><br>
-<a class="button" href="mailto:union@ugsdw.org">Contact Your Rep.</a>
+{% for button in site.data.sidebar.buttons %}
+    {% if button.accent %}
+        <a class="gold button" href="{{ button.link }}">{{ button.text }}</a> 
+    {% else %}
+        <a class="button" href="{{ button.link }}">{{ button.text }}</a> 
+    {% endif %}
+    <br><br>
+{% endfor %}
 
 <span class="description">
-    {{ site.description }}
+    {{ site.data.sidebar.text }}
 </span>
