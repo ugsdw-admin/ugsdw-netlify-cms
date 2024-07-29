@@ -23,7 +23,7 @@
                         {% elsif item.type == "pdf" %}
                             <iframe height="{{ item.size }}" src="{{ item.link }}"></iframe>
                         {% elsif item.type == "press-release" %}
-                            {{ site.data.global.press-release-tag }}
+                            {{ site.data.global.press-release-tag  | markdownify }}
                         {% elsif item.type == "news" %}
                             <div class="post-container">
                                 {% case item.archive-filter %}
