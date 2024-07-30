@@ -4,9 +4,8 @@ published: true
 title: >-
   Grinnell College Refuses to Bargain Due to Strike; UGSDW Files Unfair Labor
   Practice Charge as Strike Continues
+subtitle: The college unilaterally declared impasse after falsely declaring student workers’ strike “unlawful”
 ---
-## The college unilaterally declared impasse after falsely declaring student workers’ strike “unlawful”
-
 ![A photograph of several Grinnell students standing in a circle, two holding signs reading "UGSDW on strike"](/assets/uploads/IMG_6890.jpg)
 
 GRINNELL, IOWA — The Union of Grinnell Student Dining Workers filed an Unfair Labor Practice charge against Grinnell College today, Thursday, May 11, for refusal to bargain in good faith. Following the first day of the strike that Grinnell student workers began on May 10, the college’s bargaining team sent an email to UGSDW’s leadership stating that they believed the parties had reached impasse due to UGSDW’s strike. The email stated “As a result of your decision to strike and picket instead of bargaining in good faith, we must conclude that we have now reached impasse. A strike is a fundamental action and acknowledgment of impasse.  During impasse, the parties’ duty to bargain is temporarily suspended.” UGSDW categorically rejects the assertion that the decision to strike is in any way at odds with bargaining in good faith. 

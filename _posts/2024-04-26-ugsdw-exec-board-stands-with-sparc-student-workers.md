@@ -1,10 +1,9 @@
 ---
 release: true
 title: UGSDW Exec. Board Stands With SPARC Student Workers
+subtitle: The UGSDW Executive Board Stands Against the Elimination of Printed Editions at SPARC
 published: true
 ---
-## The UGSDW Executive Board Stands Against the Elimination of Printed Editions at SPARC
-
 ![Conrad Dahm, president of UGSDW, delivers a speech to a group of students](/assets/uploads/Copy of DSC_0003.jpg)
 
 

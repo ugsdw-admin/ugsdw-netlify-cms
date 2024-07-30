@@ -4,8 +4,8 @@ published: true
 title: >-
   Grinnell College Student Workers Strike for Campus-Wide Contract as College
   Circulates False Claims about Legality
+subtitle: Student Workers begin strike amid threats, intimidation from Grinnell College
 ---
-## Student Workers begin strike amid threats, intimidation from Grinnell College
 
 ![A photograph of several student workers standing. One holds a sign reading "UGSDW on strike"](/assets/news/IMG_20230510_164629.jpg)
 

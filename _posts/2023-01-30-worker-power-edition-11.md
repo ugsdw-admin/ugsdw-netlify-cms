@@ -3,11 +3,8 @@ release: false
 published: true
 title: 'Worker Power, Edition 11'
 author: UGSDW
+subtitle: The Case for a Strike Date
 ---
-## Worker Power, Edition 11
-
-### The Case for a Strike Date
-
 Last fall, UGSDW membership voted on three resolutions binding the UGSDW bargaining team to fight for three main priorities as we bargain with the College for a new contract for all student workers. These priorities included higher wages, recourse against workplace discrimination and harassment, and job protections like just cause employment and the designation of Grinnell as a sanctuary campus.
 
 Since that time, the UGSDW bargaining team has presented proposals—based on the input and votes of membership—that have encompassed almost all of those priorities. We have made substantial movement from our initial proposals in an attempt to come to an agreement that will still represent the priorities of all student workers. But at almost every turn, the College has refused to make any concessions at all to our needs. 
