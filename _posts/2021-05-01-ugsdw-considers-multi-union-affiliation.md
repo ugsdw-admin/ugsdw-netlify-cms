@@ -10,7 +10,7 @@ author: UGSDW
 
 On Saturday, May 1st, 2021, the Union of Grinnell Student Dining Workers started the process of officially considering a multi-union affiliation agreement between a national labor union and student worker unions at Grinnell College, Vanderbilt University, the University of Chicago, the University of Maryland, and Washington University in St. Louis.
 
-![UGSDW President Ryland Rich Speaks at May Day Event]({{site.baseurl}}/assets/news/20210501_143813.jpg)
+![UGSDW President Ryland Rich Speaks at May Day Event]({{site.baseurl}}/assets/uploads/20210501_143813.jpg)
 
 Since 2016, UGSDW has made waves specifically because we won recognition, a strong contract in the dining hall, and protections for student workers while remaining independent from any national union. At the same time, we know that workers are stronger together, and building a structure of solidarity across campuses is extremely important work. The pandemic and stagnation in our fight for expansion have also prompted us to consider all of the resources at our disposal. Affiliation is one option that could lend us the resources and infrastructure needed to fight effective battles for higher wages and better workplace protections while cementing our place in a coherent and progressive national labor movement.
 

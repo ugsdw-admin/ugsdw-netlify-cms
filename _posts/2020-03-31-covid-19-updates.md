@@ -12,7 +12,7 @@ I hope you're all safe and well. I want to update you all on how the union is ad
 
 We are still in contact with administrators to get clarity on the policies related to student employment, and we hope to publish some helpful information soon. For now, let us know if you have any questions and we'll try to help. You can reach union representatives at union@ugsdw.org. 
 
-![1014063_01_N87_HERO.jpg.jpg]({{site.baseurl}}/assets/news/1014063_01_N87_HERO.jpg.jpg)
+![1014063_01_N87_HERO.jpg.jpg]({{site.baseurl}}/assets/uploads/1014063_01_N87_HERO.jpg.jpg)
 
 **COVID-19 Student Worker Survey**
 

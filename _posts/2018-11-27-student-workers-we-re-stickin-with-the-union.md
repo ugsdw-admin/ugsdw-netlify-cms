@@ -12,7 +12,7 @@ author: UGSDW
 
 GRINNELL, IOWA — On Tuesday, ballots were cast and counted in the National Labor Relations Board’s secret ballot election determining whether student workers across campus want to be represented by UGSDW.  We are excited to announce that we won the election by a five-to-one margin, and we’re grateful to our supporters for turning out and making their voices heard. Out of the 366 voting, 274 voted yes, 54 voted no, and 38 voted under challenged ballot.
 
-![Final tally of ballots](/assets/news/tally-of-ballots.jpg)
+![Final tally of ballots](/assets/uploads/tally-of-ballots.jpg)
 
 But we still face a difficult road to victory.  In the past, Grinnell College has made clear its intention to appeal the NLRB regional office’s decision to the federal Board, which is filled with Trump administration appointees.  Were the College to stick to this path, its reckless behavior would not only compromise the liberty of its own students, but the rights of hundreds of thousands of workers across the nation.
 

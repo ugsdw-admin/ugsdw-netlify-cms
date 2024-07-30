@@ -8,7 +8,7 @@ author: Cory McCartan
 
 ---
 
-<img width="200" src="/assets/news/summer_white.jpg" alt="Summer White">
+<img width="200" src="/assets/uploads/summer_white.jpg" alt="Summer White">
 
 GRINNELL, IOWA — The Union of Grinnell Student Dining Workers today endorsed
 Summer White for SGA President.  Earlier this week, the Union asked for

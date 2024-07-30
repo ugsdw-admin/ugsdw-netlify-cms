@@ -5,7 +5,7 @@ published: true
 ---
 ## The UGSDW Executive Board Stands Against the Elimination of Printed Editions at SPARC
 
-![Conrad Dahm, president of UGSDW, delivers a speech to a group of students](/assets/news/Copy of DSC_0003.jpg)
+![Conrad Dahm, president of UGSDW, delivers a speech to a group of students](/assets/uploads/Copy of DSC_0003.jpg)
 
 
 GRINNELL, IOWA — The Union of Grinnell Student Dining Workers (UGSDW) Executive Board stands in full and unwavering solidarity with student workers at the Grinnell College Student Publications and Radio Committee (SPARC). SPARC student workers have learned that the College is going to eliminate their printed editions for the next academic year, a move made without consulting student workers or the Union. The Executive Board is firmly against the action by the administration and will be working with SPARC student workers to save their printed editions.  

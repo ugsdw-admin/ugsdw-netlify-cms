@@ -13,7 +13,7 @@ Most of us became aware of the union expansion issue last fall. Many of us have 
 
 Grinnell College told alumni that it opposed expansion for those student workers whose jobs were closely interrelated to their education. But the College’s petition for review to the National Labor Relations Board, drafted by highly partisan legal counsel, called for restrictions on student worker protections far more draconian than the College’s public pronouncements. It would have eliminated virtually all NLRB protections for both undergraduate and graduate students in all U.S. private colleges and universities. Considering the political nature of the current NLRB, we agreed with the decision of the UGSDW to withdraw its expansion petition.
 
-![bbq.jpg]({{site.baseurl}}/assets/news/bbq.jpg)
+![bbq.jpg]({{site.baseurl}}/assets/uploads/bbq.jpg)
 
 We were pleased when the College then engaged in dialogue with student union leaders about selective expansion to jobs not core to the educational process. Selective expansion appears consistent with the College’s history of voluntarily recognizing the original dining hall workers union.
 

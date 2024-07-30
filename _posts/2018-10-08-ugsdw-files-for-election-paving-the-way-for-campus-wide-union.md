@@ -25,7 +25,7 @@ workers have joined the union; to hold an election, UGSDW needed 30% of all
 student workers outside Dining Services to join. Union estimates peg the total
 number of such workers at around 1,000.    
 
-![Authorizations from Student Workers]({{site.baseurl}}/assets/news/Authorizations%20from%20Student%20Workers.png)
+![Authorizations from Student Workers]({{site.baseurl}}/assets/uploads/Authorizations%20from%20Student%20Workers.png)
 
 “The expansion of UGSDW is something that I’m very excited to be a part of,”
 said UGSDW President Quinn Ercolani, who is also the Treasurer of SGA. “The
@@ -51,7 +51,7 @@ to current case law, Xu worries that this will matter little.  “They have an
 advantage in this area due to their superior legal and financial resources,” he
 says.
 
-![Students Watching Expansion Announcement]({{site.baseurl}}/assets/news/expansion_watching.jpg)
+![Students Watching Expansion Announcement]({{site.baseurl}}/assets/uploads/expansion_watching.jpg)
 
 Still, Xu says he is optimistic. “So far, students have shown great enthusiasm
 in support of our organizing drive…. I am confident that Grinnell will respect

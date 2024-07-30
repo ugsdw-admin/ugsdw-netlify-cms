@@ -24,7 +24,7 @@ Members run our union. We need to figure out how we can continue to make decisio
 
 **Collective bargaining for Academic Year 2020-21:** The current union contract expires on June 30th, 2020. Right now we don’t know how we’ll bargain the next contract while many of us are off-campus, but we will discuss this issue at the soon-to-be-held online union meeting 
 
-![NorthCampusFeatureImage.png]({{site.baseurl}}/assets/news/NorthCampusFeatureImage.png)
+![NorthCampusFeatureImage.png]({{site.baseurl}}/assets/uploads/NorthCampusFeatureImage.png)
 
 
 **Support for All Student Workers and Community Members**

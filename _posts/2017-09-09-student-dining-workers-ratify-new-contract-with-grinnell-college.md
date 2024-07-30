@@ -18,7 +18,7 @@ $9.50 per hour from $9.25 per hour.  UGSDW had originally proposed $9.60
 per hour.  Starting in July 2018, wages will increase again, in proportion
 to the raise received by other support staff at the college.
 
-![Workers at Grinnell's dining hall]({{site.baseurl}}/assets/news/dhall_stock_1.jpg)
+![Workers at Grinnell's dining hall]({{site.baseurl}}/assets/uploads/dhall_stock_1.jpg)
 
 Grinnell’s newest offer came in response to informational postering by the
 union, and a work-to-rule slowdown on Labor Day.  UGSDW members had rejected

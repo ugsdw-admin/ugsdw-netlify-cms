@@ -5,7 +5,7 @@ published: true
 ---
 ## UGSDW Ratifies First Wall-To-Wall Undergraduate Labor Contract in US History
 
-![A photograph of a Grinnell student holding a sign that says "Union Power""](/assets/news/Copy of DSC_0009.jpg)
+![A photograph of a Grinnell student holding a sign that says "Union Power""](/assets/uploads/Copy of DSC_0009.jpg)
 
 GRINNELL, IOWA — On April 4th, 2024 the Union of Grinnell Student Dining Workers (UGSDW) officially ratified and signed the first wall-to-wall undergraduate labor contract in US History by a landslide vote of 162-1. The contract is a historic victory for the UGSDW. The contract comes after years of legal battles between the Union and Grinnell College, which in 2018, saw the College attempt to remove the right of all undergraduates in the country to unionize under the Republican controlled NLRB. 
 

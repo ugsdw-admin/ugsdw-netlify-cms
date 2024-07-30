@@ -10,7 +10,7 @@ Although Grinnell has many draws, like its strong academics and the intimate cam
 
 After I arrived on campus, I’ve learned more about the state of work on campus. To fund my education, I got a job in the Dining Hall, and I’m incredibly grateful that I’m paid a decent wage, that I can take sick and personal days, and that if I am disciplined or fired unjustly, I do have a recourse. I also learned that none of these protections existed before student workers won it together through UGSDW. Joining together, student workers have a powerful tool to improve their conditions. 
 
-![Isaiah Gutman '23 in the UGSDW Office]({{site.baseurl}}/assets/news/Image%20from%20iOS%20(10).jpg)
+![Isaiah Gutman '23 in the UGSDW Office]({{site.baseurl}}/assets/uploads/Image%20from%20iOS%20(10).jpg)
 
 I was appalled and disappointed to learn that other student workers don’t get these protections.  To make matters worse, the college administration has resisted these student workers’ drive to collectively fight for better conditions at every step. That’s why I’ve been knocking on doors, sending texts and talking to anyone I possibly can about expansion for the past few weeks, my first few weeks at Grinnell. There is no reason why student workers outside Dining Hall do not deserve the same rights and dignity student dining workers have fought for and won. 
 

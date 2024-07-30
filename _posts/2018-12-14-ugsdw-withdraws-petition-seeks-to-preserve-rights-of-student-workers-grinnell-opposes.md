@@ -13,7 +13,7 @@ date: 2018-12-14T02:45:00.000Z
 
 GRINNELL, IOWA — On Thursday, December 13, in recognition of the national consequences of our fight, and the flimsy possibility of a fair ruling before the Trump labor board, UGSDW’s Expansion Committee filed a request to withdraw its NLRB petition with the regional office in Minneapolis.
 
-![UGSDW march, December 7. Photo by Winnie Commers.](/assets/news/withdraw-img.jpg)
+![UGSDW march, December 7. Photo by Winnie Commers.](/assets/uploads/withdraw-img.jpg)
 
 On Friday, December 14, UGSDW was informed that Grinnell College is opposing our withdrawal request.  The college has maintained that its goal is to revoke our NLRB certification; this withdrawal request would do just that.   By opposing our request, the college has made it clear that despite President Kington’s explicit public statements to the contrary, the college’s true motivations are to strip student workers nationwide of their right to organize and set the labor movement back a decade.  This is despicable.
 

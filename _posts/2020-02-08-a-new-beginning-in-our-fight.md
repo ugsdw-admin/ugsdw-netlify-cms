@@ -14,7 +14,7 @@ On February 8, 2020, Grinnell College Board of Trustees voted unanimously agains
 
 These moderate improvements in student worker pay and working conditions directly result from the organizing efforts and direct actions of student workers over the past two years, as a few trustees themselves acknowledged in a meeting with members of the UGSDW Executive Board. “The voices and actions of student workers have clearly had a tremendous impact on the trustees,”  said Jacob Schneyer ‘21, UGSDW President, “It’s clear that without the strong organization of the union, these changes never would have happened.”
 
-![83385701_610012736488686_5525281628789669888_n.jpg]({{site.baseurl}}/assets/news/83385701_610012736488686_5525281628789669888_n.jpg)
+![83385701_610012736488686_5525281628789669888_n.jpg]({{site.baseurl}}/assets/uploads/83385701_610012736488686_5525281628789669888_n.jpg)
 
 Despite these improvements, student workers remain resolved in continuing our fight for worker justice on campus. At a general meeting that immediately followed the decision, student workers discussed our vision for an inclusive and powerful UGSDW, laid out next steps, and committed to carrying out various projects to promote worker justice and improve material conditions on campus. 
 

@@ -6,7 +6,7 @@ author: UGSDW
 ---
 ## Second Bargaining Session October 13, 4:30 PM in JRC 101 and on WebEx
 
-![A photograph of UGSDW's bargaining team at the table in JRC 101, facing the College's Bargaining Team during the first bargaining session](https://ugsdw.org/assets/news/68678555629__0FA51F11-411A-4025-9CF6-83CB8F953641.jpg)
+![A photograph of UGSDW's bargaining team at the table in JRC 101, facing the College's Bargaining Team during the first bargaining session](https://ugsdw.org/assets/uploads/68678555629__0FA51F11-411A-4025-9CF6-83CB8F953641.jpg)
 
 
 ### Recap: First Session of Bargaining
@@ -27,7 +27,7 @@ We will be brainstorming contract proposals for (1) a new grievance procedure fo
 
 Next Organizing Meeting: Sunday, Oct. 23, 6pm, JRC 209
 
-![A photograph of the crowd observing the first bargaining session in JRC 101. They hold several pro-UGSDW signs, and most are wearing "UGSDW Fair Contract Now!" buttons.](https://ugsdw.org/assets/news/IMG_6303.jpg)
+![A photograph of the crowd observing the first bargaining session in JRC 101. They hold several pro-UGSDW signs, and most are wearing "UGSDW Fair Contract Now!" buttons.](https://ugsdw.org/assets/uploads/IMG_6303.jpg)
 
 ### Workers came out in full force to the first session of bargaining on Oct. 6 wearing _UGSDW Fair Contract Now!_ buttons to show solidarity and support for a fair and strong contract! 
 

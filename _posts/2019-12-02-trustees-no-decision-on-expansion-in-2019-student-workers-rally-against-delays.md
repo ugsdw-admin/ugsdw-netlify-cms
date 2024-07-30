@@ -17,7 +17,7 @@ GRINNELL, IOWA — On Monday, December 2,  the Union of Grinnell Student Dining 
 
 Despite much good-faith conversation and difficult concession from student workers over the past year, the Board of Trustees have continued to delay voting on partial expansion, and refused to release a concrete timeline for a decision. At the rally, Sam Xu ’20, President of UGSDW, laid out the next steps in our fight for union expansion, “Over the next few months, we are building a community of well-informed organizers and workers, connecting with all of our allies, and preparing for a series of direct actions. When the trustees meet on campus next February, we will be ready to hold them accountable.” 
 
-![Student worker speaking at the Enough Waiting rally]({{site.baseurl}}/assets/news/12:2 Rally.jpg)
+![Student worker speaking at the Enough Waiting rally]({{site.baseurl}}/assets/uploads/12:2 Rally.jpg)
 
 Immediately after the rally, student workers participated in an organizing workshop, where they honed skills to organize their peers, and discussed tactics for more actions. “I learned a lot about how to organize my friends and co-workers, and how to answer questions about the union,” said Keir Hichens ’22, a student worker of Student Health and Wellness. 
 

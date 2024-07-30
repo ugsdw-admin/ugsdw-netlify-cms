@@ -13,7 +13,7 @@ date: 2019-01-01T02:45:00.000Z
 
 GRINNELL, IOWA — In 2018, we made landmark strides towards becoming the most unionized undergraduate campus in the country. We grew in numbers, with over 400 new members. We won a historic election by a 5-to-1 margin. We energized the alumni community, with hundreds of alumni standing in solidarity with UGSDW, making calls, writing letters and editorials, and donating. We changed the conversation, as our story was told in national media outlets. We exposed the Grinnell administration’s hypocrisy, which hired five lawyers from two separate white-shoe law firms and hired an extra communications firm to bust a union for and run by working students. 
 
-![Image of fireworks](/assets/news/newyear2019.jpg)
+![Image of fireworks](/assets/uploads/newyear2019.jpg)
 
 In 2018, we fought in solidarity with the national labor movement of working students. That is why we decided to withdraw our NLRB petition--to deny the Trump labor board an opportunity to destroy the rights of student workers to join together in unions nationwide. What Grinnell’s expensive attorneys call a national “conspiracy” is what we call solidarity.
 

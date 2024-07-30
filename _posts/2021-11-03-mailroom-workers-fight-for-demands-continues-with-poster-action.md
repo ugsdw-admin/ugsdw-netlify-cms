@@ -12,7 +12,7 @@ This morning, mailroom supervisors came into a workplace covered in posters dema
 
 The College opened a Title IX investigation into supervisors Kim Hegg and Payton Ronfeldt following multiple large-scale actions by mailroom workers in October. While that investigation is ongoing, Hegg and Ronfeldt have been temporarily removed from the mailroom. However, 8 of the workers’ 9 demands have not been met, and workers remain vulnerable in the absence of structural change in their workplace. Mailroom workers demanded equal pay and a wage increase, just cause employment and the ability to control their own schedules. None of the aforementioned demands have been addressed by either Hegg and Ronfeldt or their new, temporary supervisors. 
 
-![mailroom poster.JPG]({{site.baseurl}}/assets/news/mailroom poster.JPG)
+![mailroom poster.JPG]({{site.baseurl}}/assets/uploads/mailroom poster.JPG)
 
 The removal of Hegg and Ronfeldt has not changed the structure of the mailroom that allowed toxic workplace practices, including racism, homophobia, transphobia, xenophobia, and ableism, to persist. Without just-cause employment, workers feel uncomfortable addressing these issues with their supervisors directly without the risk of facing retaliation in the form of firing. Through organizing for their demands, workers aim to establish an environment where their basic rights are respected, while also reminding their bosses of the power they hold as workers. 
 

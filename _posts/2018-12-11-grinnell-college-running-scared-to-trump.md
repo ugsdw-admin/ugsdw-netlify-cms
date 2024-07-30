@@ -12,7 +12,7 @@ author: UGSDW
 
 GRINNELL, IOWA — On Friday, December 7, at 4:59 p.m. Eastern time—the last possible minute of the business day—Grinnell College filed a request for review with the National Labor Relations Board (NLRB) in Washington, D.C.  If the NLRB grants the college’s request, it could undo UGSDW’s certification after its democratic election victory, and overturn the critical legal precedent which gives student workers in the U.S. the right to unionize.
 
-![UGSDW members march to protest Grinnell's actions](/assets/news/march-12-2018.jpg)
+![UGSDW members march to protest Grinnell's actions](/assets/uploads/march-12-2018.jpg)
 
 We are disgusted and saddened by Grinnell’s decision to appeal.  They are fully aware of how their actions could strip basic rights from hundreds of thousands of student workers across the country.  At every step of the process, we’ve offered to come to the table and [discuss a framework for bargaining which would address the concerns the college has raised](https://www.ugsdw.org/2018/12/05/civil-discourse-again/)—flexibility in hiring, student privacy, and wages.  And every time we offer to talk, they’ve slammed the door in our faces.  Harvard, Columbia, Georgetown, and others have all reached compromises with their unions which preserve the universities’ key priorities while allowing their workers to bargain.  Grinnell refuses to even entertain this possibility.
 

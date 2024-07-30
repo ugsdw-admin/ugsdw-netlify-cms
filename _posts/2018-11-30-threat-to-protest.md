@@ -12,7 +12,7 @@ author: UGSDW
 
 GRINNELL, IOWA — On Friday, November 30, UGSDW held a demonstration calling for Grinnell College to bargain in good faith and to refrain from appealing our effort to unionize to the Trump National Labor Relations Board (NLRB).  During this action, student activists walked Dean of the College Mike Latham and Chief of Staff and Vice President Angela Voos from a meeting in the Joe Rosenfield ’25 Center to the Nollen House, the College’s primary administrative building. Throughout, participants chanted, held signs, and cheered, but maintained their distance from Latham and Voos. In fact, before the action, organizers asked each participant to respect the personal space of any administrator involved, for UGSDW members, like any Grinnellian, are dedicated to upholding respect and dignity during any action.
 
-![Student protesters marching](/assets/news/student_protest.jpg)
+![Student protesters marching](/assets/uploads/student_protest.jpg)
 
 Later in the day, the administration e-mailed the student body a threat. They called our action “clearly intended to harass and intimidate,” citing the fact that participants “[screamed] within close proximity” of administrators and “otherwise violat[ed]” their physical space as evidence. They went on to state that in the future, protesters using similar tactics could be subject to suspension or other disciplinary action for such allegations.
 

@@ -19,7 +19,7 @@ said Quinn Ercolani, chairman of the Committee for the Expansion of
 Representation.  "It allows more student workers to be represented in fair and
 equitable negotiations with the College."
 
-![Spencer Grill](/assets/news/sg_flags.jpg)
+![Spencer Grill](/assets/uploads/sg_flags.jpg)
 
 To file a petition, at least 30% of the 80 or so workers at the Spencer Grill
 had to sign cards stating their interest in a union.  If workers vote to become
