@@ -12,7 +12,7 @@ contents:
       You can view the collective bargaining agreement below, or download a PDF copy.
   - type: pdf
     size: 800
-    link: https://drive.google.com/file/d/1WFW3nx3fcKqIwRep2ED2OBVy7dwK-DxL/view
+    link: https://drive.google.com/file/d/1WFW3nx3fcKqIwRep2ED2OBVy7dwK-DxL/view?usp=sharing
   - type: text
     text: >-
       [View the signed version
