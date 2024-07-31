@@ -9,7 +9,7 @@ contents:
       # Donate to UGSDW
 
 
-      UGSDW operates on voluntary dues of only $2 a month. As such, any donations are greatly appreciated.
+      UGSDW operates on voluntary dues of only $2 a month.
 
 
       Any contribution helps, and makes a real difference for us and our workers. You can use the links below or PayPal us at @UGSDW.
