@@ -1,6 +1,5 @@
 # For using liquid in Jekyll frontmatter. Source: https://github.com/gemfarmer/jekyll-liquify
 
-
 module LiquifyFilter
   def liquify(input)
     if input.is_a? String

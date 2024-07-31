@@ -58,7 +58,7 @@ collections: # A list of collections the CMS should be able to edit
           - label: "PDF"
             name: "pdf"
             fields:
-              - { label: "Link", name: "link", widget: "string" }
+              - { label: "Link", name: "link", widget: "string", hint: "Use a EMBED link - click the three dots in the Google, look for Embed, and find the link in the embed code. It will have /preview on the end!"}
               - { label: "Size", name: "size", widget: "number", default: 800 }
           - label: "News Section"
             name: "news"
