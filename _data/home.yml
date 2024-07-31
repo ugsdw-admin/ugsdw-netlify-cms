@@ -7,7 +7,7 @@ banner:
       link: resources
     - name: JOIN
       accent: false
-      link: /
+      link: /join
     - name: NEW STUDENTS
       accent: false
       link: /
