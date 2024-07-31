@@ -14,37 +14,37 @@ contents:
 
       # Our Principles
 
-      - **Workers deserve a voice.**  Without student workers, there would be no food, no library, no mentor sessions, no mail delivery.  We do vital work for the college.  Some students work 20 hours a week.  We should have a say in how we work.
 
-      - **We’re stronger together.**  Change only happens when we come together and take a stand.  It’s easy to ignore one worker.  It’s not so easy to ignore all of us.
+      * **Workers deserve a voice.**  Without student workers, there would be no food, no library, no mentor sessions, no mail delivery.  We do vital work for the college.  Some students work 20 hours a week.  We should have a say in how we work.
 
-      - **Democracy!**  A union can only work if it is truly run by its members.  That means transparency. That means frequent elections. That means a bottom-up approach where members, not officers, pick priorities and make decisions.
+      * **We’re stronger together.**  Change only happens when we come together and take a stand.  It’s easy to ignore one worker.  It’s not so easy to ignore all of us.
 
+      * **Democracy!**  A union can only work if it is truly run by its members.  That means transparency. That means frequent elections. That means a bottom-up approach where members, not officers, pick priorities and make decisions.
 
 
       # Our History
 
 
-      The Union of Grinnell Student Dining Workers was started in the spring of 2016, elected with a 91% margin by employees to represent the student dining workers. Since then, we’ve expanded to include all Dining Services workers, made a larger effort to [expand](/together) to all student workers at Grinnell College, and negotiated multiple [contracts](/members/contract). We’ve fought for, and won:
+      The Union of Grinnell Student Dining Workers was started in the spring of 2016, elected with a 91% margin by employees to represent the student dining workers. In April of 2022, we expanded to become the first wall-to-wall undergraduate labor union, which includes all student workers at Grinnell College. We’ve also and negotiated multiple [contracts](/resources/contract), including the first wall-to-wall undergraduate contract. We’ve fought for, and won:
 
 
-      - Wage increases to $13.50 an hour
+      * Wage increases to $13.50 an hour
 
-      - Just cause employment and a grievance procedure
+      * Just cause employment for all student workers
 
-      - Paid rest breaks
+      * A grievance procedure with a third-party arbitrator having the final say 
 
-      - Equal pay for local high school students
+      * The ability to bargain over workplace rules changes, workplace eliminations, and reductions in force
 
-      - Pay for missed shifts due to college enforced quarantines during the COVID-19 pandemic
+      * Paid rest breaks
 
 
       # Get Involved
 
+
       Grinnell College relies on student workers to run it. In fact, the college wouldn’t exist without student workers.  The more student workers take action to improve their conditions, the more pressure the college will have to meet our demands.  UGSDW is constantly fighting to win better treatment for all workers across campus, from higher wages to a grievance procedure to protections against unjust firings.  Get more involved in the decision making processes by becoming a member, joining a Union campaign or leadership position, and keeping up to date on our actions and events by following UGSDW on instagram or facebook. 
 
       Become a member [here](/join), then check your email for updates!
-
 
 
       # Leadership
@@ -55,19 +55,19 @@ contents:
 
       **{{ site.data.global.president.name }}** &nbsp;*President* <br>
 
-      [{{ site.data.officers.president.email }}](mailto:{{ site.data.officers.president.email }})
+      \[{{ site.data.officers.president.email }}](mailto:{{ site.data.officers.president.email }})
 
 
       **{{ site.data.global.sec-treas.name }}** &nbsp;*Secretary-Treasurer* <br>
 
-      [{{ site.data.officers.sec-treas.email }}](mailto:{{ site.data.officers.sec-treas.email }})
+      \[{{ site.data.officers.sec-treas.email }}](mailto:{{ site.data.officers.sec-treas.email }})
 
 
       {% for officer in site.data.global.at-large %}
 
       **{{ officer.name }}** &nbsp;*Member At Large* <br>
 
-      [{{ officer.email }}](mailto:{{ officer.email }})
+      \[{{ officer.email }}](mailto:{{ officer.email }})
 
       {% endfor %}
 
@@ -76,7 +76,7 @@ contents:
 
       **{{ officer.name }}** &nbsp;*Advisor* <br>
 
-      [{{ officer.email }}](mailto:{{ officer.email }})
+      \[{{ officer.email }}](mailto:{{ officer.email }})
 
       {% endfor %}
 
