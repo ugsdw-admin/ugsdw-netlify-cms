@@ -6,8 +6,8 @@ left-center-button:
   name: Resources
   link: ""
   contents:
-    - link: test
-      name: test
+    - name: Your Contract
+      link: /resources/contract
 right-center-button:
   name: About
   link: ""
