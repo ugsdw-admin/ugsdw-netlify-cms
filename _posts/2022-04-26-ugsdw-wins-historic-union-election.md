@@ -8,7 +8,7 @@ author: UGSDW
 
 This morning, National Labor Relations Board (NLRB) officials announced the final vote count in the election to expand the Union of Grinnell Student Dining Workers (UGSDW) to every hourly student workplace at Grinnell College. Student workers voted overwhelmingly to unionize, with 327 voting yes and 6 voting no.
 
-![Photo by Maddi Shinall](https://www.ugsdw.org/assets/uploads/victory.JPG)
+![Photo by Maddi Shinall](/assets/uploads/victory.JPG)
 
 The vote count, originally scheduled to take place on April 21, was delayed until today, April 26 due to a [toxic gas leak](https://www.thesandb.com/article/breaking-nlrb-postpones-counting-of-votes-in-ugsdw-election-due-to-toxic-sewage-gas-leak.html) in the NLRB building in Minneapolis. 
 

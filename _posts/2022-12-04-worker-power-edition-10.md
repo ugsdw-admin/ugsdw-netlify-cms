@@ -8,7 +8,7 @@ author: UGSDW
 
 ### The nation’s first fully unionized campus should _lead_ comparable institutions
 
-![A graph comparing the college's base wage, $8.24, the college's proposal, $10.75, the wage adjusted if it had increased at the same rate as tuition since 2005, $18.83, and UGSDW's proposed wage, $20.00.](https://www.ugsdw.org/assets/uploads/WageGraph1-1.jpg)
+![A graph comparing the college's base wage, $8.24, the college's proposal, $10.75, the wage adjusted if it had increased at the same rate as tuition since 2005, $18.83, and UGSDW's proposed wage, $20.00.](/assets/uploads/WageGraph1-1.jpg)
 
 When we surveyed student workers, 69% said that they relied on their wages from work to buy groceries, 57% said that they relied on wages for school materials, and 24% said they relied on wages for housing. The wages that many student workers receive for our work are essential to our ability to feed and house ourselves, and to continue to attend Grinnell.
 
@@ -20,11 +20,11 @@ Our demand for $20 is made in solidarity with student workers across the country
 
 ### Grinnell's base wage ranks last among comperable institutions
 
-![A graph comparing wages at institutions comperable to Grinnell College. Amherst: $15.25, Pomona: $15, Reed: $14.75, Smith: $14.25, Swarthmore: $13.90, Bowdoin: $13.75, Macalaster: $13.50, Colorado: $12.56, Carleton: $12, St. Olaf: $11, Kenyon: $9.30, and Grinnell: $8.24.](https://www.ugsdw.org/assets/uploads/Screen%20Shot%202022-12-04%20at%206.30.27%20PM.png)
+![A graph comparing wages at institutions comperable to Grinnell College. Amherst: $15.25, Pomona: $15, Reed: $14.75, Smith: $14.25, Swarthmore: $13.90, Bowdoin: $13.75, Macalaster: $13.50, Colorado: $12.56, Carleton: $12, St. Olaf: $11, Kenyon: $9.30, and Grinnell: $8.24.](/assets/uploads/Screen%20Shot%202022-12-04%20at%206.30.27%20PM.png)
 
 ### UGSDW's Proposal will let us be _students first_
 
-![A graph comparing the hours per week a student-worker would need to work to make their work-study contribution. At the current wage, it is 9.5 hours. The College's proposal is 7.3 hours, and UGSDW's proposal is 3.9 hours.](https://www.ugsdw.org/assets/uploads/WageGraph2-1.jpg)
+![A graph comparing the hours per week a student-worker would need to work to make their work-study contribution. At the current wage, it is 9.5 hours. The College's proposal is 7.3 hours, and UGSDW's proposal is 3.9 hours.](/assets/uploads/WageGraph2-1.jpg)
 
 Union members! Check your email for a link to vote via Google Form on our wage proposal! 
 

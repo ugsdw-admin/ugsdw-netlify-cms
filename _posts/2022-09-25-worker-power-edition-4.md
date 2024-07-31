@@ -36,7 +36,7 @@ The College is scared of the power that we have as workers. They know that we ar
 
 ### College Retracts Illegal Changes in Workplaces after Workers Speak Up
 
-In [Edition 1 of Worker Power](https://www.ugsdw.org/2022/09/05/worker-power-edition-1/), we called out the College for making illegal workplace changes without bargaining with student workers. Workers spoke out, telling us that these changes created more expectations and made work more difficult in several workplaces. ResLife assigned CAs an extra program, museum guides had to work a new weekly meeting into their schedules, and library workers couldn't use personal electronic devices on the job. 
+In [Edition 1 of Worker Power](/2022/09/05/worker-power-edition-1/), we called out the College for making illegal workplace changes without bargaining with student workers. Workers spoke out, telling us that these changes created more expectations and made work more difficult in several workplaces. ResLife assigned CAs an extra program, museum guides had to work a new weekly meeting into their schedules, and library workers couldn't use personal electronic devices on the job. 
 
 When we brought these changes to the College, they denied breaking the law, claiming the changes were not "substantial" enough. Student workers knew better; we told administration to their faces how our jobs were harder after these changes. Now, the College is retracting the illegal changes and restoring previous working conditions in these workplaces! Only student workers coming together to protest these changes led to the College changing its tune. If we want to win any improvements for student workers in bargaining, we need to stand together and fight —  because we know the College won't be convinced any other way.
 

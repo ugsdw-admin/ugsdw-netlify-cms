@@ -17,7 +17,7 @@ Dining workers should also take note of changes to experience pay. If students h
 
 The new contract also includes a restructured point system allowing workers more flexibility. Although the points each employee is allowed to accrue each semester have decreased from 5 to 3, workers are now able to pick up additional shifts within the same time period of a shift they missed to avoid accruing a point. 
 
-The new contract also includes several minor changes such as a modification to how UGSDW may recruit members during New Student Orientation. Members are encouraged to read the contract in its entirety: The contract is available online [here](https://www.ugsdw.org/members/contract/) and will also be emailed to membership.
+The new contract also includes several minor changes such as a modification to how UGSDW may recruit members during New Student Orientation. Members are encouraged to read the contract in its entirety: The contract is available online [here](/members/contract/) and will also be emailed to membership.
 
 If you have any questions or concerns about the new contract, we encourage you to email ugsdw.org@gmail.com. 
 
