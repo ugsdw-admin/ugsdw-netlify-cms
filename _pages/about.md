@@ -67,7 +67,7 @@ contents:
 
       **{{ officer.name }}** &nbsp;*Member At Large* <br>
 
-      \[{{ officer.email }}](mailto:{{ officer.email }})
+      [{{ officer.email }}](<mailto:{{ officer.email }}>)
 
       {% endfor %}
 
@@ -76,7 +76,7 @@ contents:
 
       **{{ officer.name }}** &nbsp;*Advisor* <br>
 
-      \[{{ officer.email }}](mailto:{{ officer.email }})
+      [{{ officer.email }}](<mailto:{{ officer.email }}>)
 
       {% endfor %}
 
