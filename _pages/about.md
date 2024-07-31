@@ -60,7 +60,7 @@ contents:
 
       **{{ site.data.global.sec-treas.name }}** &nbsp;*Secretary-Treasurer* <br>
 
-      \[{{ site.data.officers.sec-treas.email }}](mailto:{{ site.data.officers.sec-treas.email }})
+      [{{ site.data.officers.sec-treas.email }}](<mailto:{{ site.data.officers.president.email }}>)
 
 
       {% for officer in site.data.global.at-large %}
