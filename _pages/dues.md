@@ -17,13 +17,14 @@ contents:
   - type: pdf
     size: 800
     link: https://drive.google.com/file/d/1uVTv0z06ObxgjjtBlqn7zlP-H-s3TYbUX_7AixBwhzg/preview
-  - type: break
   - type: text
     text: >-
+      
+
       Dues can also be paid by *cash or check*. If you are paying by check,
 
       make the check payable to “Union of Grinnell Student Dining Workers” and write the month(s) for which you are paying dues on the memo line. If you are paying cash, fill out [this form](https://docs.google.com/document/d/1LZ-FInxs2UBlypa_jADZxgvdgZnL1USMqziMtN2wimg/export?format=pdf) and attach the cash to it.
 
 
-      Questions about dues? E-mail your treasurer, [{{site.data.global.sec-treas.name}}](<mailto:{{site.data.global.sec-treas.email}}>).
+      Questions about dues? E-mail your treasurer, [{{site.data.global.sec-treas.name}}](mailto:{{site.data.global.sec-treas.email}}).
 ---
