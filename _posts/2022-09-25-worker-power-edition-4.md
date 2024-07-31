@@ -6,7 +6,7 @@ author: UGSDW
 ---
 ## Get Ready! Two Weeks Until Bargaining Begins
 
-![A photograph of hundreds of student-workers gathered in Main Quad](https://ugsdw.org/assets/uploads/PXL_20220827_200150885.jpg)
+![A photograph of hundreds of student-workers gathered in Main Quad](/assets/uploads/PXL_20220827_200150885.jpg)
 
 
 ### The Fight for Student Worker Job Security

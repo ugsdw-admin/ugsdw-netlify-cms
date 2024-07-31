@@ -6,7 +6,7 @@ author: UGSDW
 ---
 ## Student Workers Rally for Just Cause and Open Bargaining!
 
-![A large group of student workers marches across campus carrying pro-union signs and banners](https://ugsdw.org/assets/uploads/IMG_3355.jpg)
+![A large group of student workers marches across campus carrying pro-union signs and banners](/assets/uploads/IMG_3355.jpg)
 
 
 Last week, the College’s bargaining team made it clear that they have little interest in hearing what student workers have to say about their contract by banning a live audience at bargaining sessions. Student workers rallied Thursday to support academic workers—who the College is attempting to exclude from job protections — and to show the College’s bargaining team that we will continue to demand an open bargaining process!

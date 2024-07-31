@@ -7,7 +7,7 @@ title: 'Worker Power, Edition #3'
 
 ### What is Real Recourse?
 
-![A photograph of several student-workers standing on a lawn, raising their fists](https://ugsdw.org/assets/uploads/IMG_5722.JPG)
+![A photograph of several student-workers standing on a lawn, raising their fists](assets/uploads/IMG_5722.JPG)
 
 Real recourse means an accountable, neutral process for treating cases of discrimination and harassment in the workplace. As part of collective bargaining, we can negotiate that independent process through the union grievance procedure — providing union representation for student workers and a neutral arbitration process for addressing cases of harassment and discrimination. Currently, the College's process for dealing with these cases is internal with Ben Newhouse as the final decision maker for Title IX complaints involving students. Time and time again, Newhouse has shown he sides with the people who sign his checks, the College. Students have seen their cases ignored, dismissed, or only partially resolved by the College’s Title IX and conduct processes. Without an independent process for addressing instances of sexual harassment, discrimination, and violence, GC will continue to limit its legal liability instead of prioritizing the needs of survivors.
 

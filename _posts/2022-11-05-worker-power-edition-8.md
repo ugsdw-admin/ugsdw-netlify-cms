@@ -5,7 +5,7 @@ title: 'Worker Power, Edition #8'
 ---
 ## College Walks Out of Negotiations After Failing to Define "Academic Freedom"
 
-![UGSDW's bargaining team sits at the bargaining table as the College's team leaves](https://ugsdw.org/assets/uploads/Screen%20Shot%202022-10-30%20at%201.32.08%20PM.png)
+![UGSDW's bargaining team sits at the bargaining table as the College's team leaves](/assets/uploads/Screen%20Shot%202022-10-30%20at%201.32.08%20PM.png)
 
 October 27, 2022: At the third bargaining session with the College, we presented two new proposals and continued bargaining with the College over our Just Cause proposal. Our past practice proposal would preserve workplace practices in effect at the time of signing a new contract and prevent the College from changing practices without first bargaining with student workers. We also presented a proposal that would release standard student worker information, such as department of employment, to the union. Finally, we revisited our just cause proposal, which would guarantee more robust protections and a transparent process for student workers facing discipline or termination.
 
