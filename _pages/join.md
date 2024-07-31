@@ -1,7 +1,7 @@
 ---
 title: Join
 permalink: /join
-nosidebar: true
+nosidebar: false
 css: news-wrapper
 contents:
   - type: text
