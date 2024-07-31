@@ -8,12 +8,24 @@ left-center-button:
   contents:
     - name: Your Contract
       link: /resources/contract
+    - name: Your Rights
+      link: /resources/rights
+    - name: FERPA Form
+      link: /resources/ferpa
+    - name: Dues Form
+      link: /resources/dues
 right-center-button:
   name: About
-  link: ""
+  link: /about
   contents:
-    - link: test
-      name: test
+    - name: Latest News
+      link: /news
+    - name: Constitution
+      link: /constitution
+    - name: Contact
+      link: /contact
+    - name: Donate
+      link: /donate
 right-end-button:
   name: JOIN UGSDW
   link: join
