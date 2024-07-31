@@ -55,7 +55,7 @@ contents:
 
       **{{ site.data.global.president.name }}** &nbsp;*President* <br>
 
-      \[{{ site.data.officers.president.email }}](mailto:{{ site.data.officers.president.email }})
+      [{{ site.data.officers.president.email }}](<mailto:{{ site.data.officers.president.email }}>)
 
 
       **{{ site.data.global.sec-treas.name }}** &nbsp;*Secretary-Treasurer* <br>
