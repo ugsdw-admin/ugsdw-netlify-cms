@@ -23,8 +23,9 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.11"
   gem "jekyll-seo-tag", "~> 2.5"
   gem "jekyll-sitemap", "~> 1.2"
-  gem "jekyll-liquify"
 end
+
+gem "jekyll-liquify", "~> 0.0.3" #not a jekyll plugin idk why
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
