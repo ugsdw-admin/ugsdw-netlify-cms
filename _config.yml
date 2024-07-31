@@ -32,3 +32,6 @@ sass:
 
 plugins:
     - jekyll-sitemap
+
+gems:
+  - jekyll-liquify

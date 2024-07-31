@@ -9,7 +9,7 @@
                 {% if page.contents %}
                     {% for item in page.contents %}
                         {% if item.type == "text" %}
-                            {{ item.text | markdownify }}
+                            {{ item.text | liquify | markdownify }}
                         {% elsif item.type == "button" %}
                             <a href="{{ item.link }}" class="
                                                             {% if item.gold == true %}
