@@ -53,17 +53,17 @@ contents:
       UGSDW is led by the Executive Board, which is elected yearly by the membership. The Board is comprised of our President, Secretary-Treasurer, a number of at-large members, and several appointed advisors, who do not have voting power.
 
 
-      **{{ site.data.officers.president.name }}** &nbsp;*President* <br>
+      **{{ site.data.global.president.name }}** &nbsp;*President* <br>
 
       [{{ site.data.officers.president.email }}](mailto:{{ site.data.officers.president.email }})
 
 
-      **{{ site.data.officers.sec-treas.name }}** &nbsp;*Secretary-Treasurer* <br>
+      **{{ site.data.global.sec-treas.name }}** &nbsp;*Secretary-Treasurer* <br>
 
       [{{ site.data.officers.sec-treas.email }}](mailto:{{ site.data.officers.sec-treas.email }})
 
 
-      {% for officer in site.data.officers.at-large %}
+      {% for officer in site.data.global.at-large %}
 
       **{{ officer.name }}** &nbsp;*Member At Large* <br>
 
@@ -72,7 +72,7 @@ contents:
       {% endfor %}
 
 
-      {% for officer in site.data.officers.advisors %}
+      {% for officer in site.data.global.advisors %}
 
       **{{ officer.name }}** &nbsp;*Advisor* <br>
 
