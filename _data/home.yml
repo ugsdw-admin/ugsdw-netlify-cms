@@ -4,13 +4,10 @@ banner:
   buttons:
     - name: RESOURCES
       accent: false
-      link: resources
+      link: /resources/rights
     - name: JOIN
       accent: false
       link: /join
-    - name: NEW STUDENTS
-      accent: false
-      link: /
 news:
   text: LATEST
   max-articles: 5
