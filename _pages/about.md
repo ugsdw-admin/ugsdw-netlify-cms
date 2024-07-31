@@ -55,12 +55,12 @@ contents:
 
       **{{ site.data.global.president.name }}** &nbsp;*President* <br>
 
-      [{{ site.data.officers.president.email }}](<mailto:{{ site.data.officers.president.email }}>)
+      [{{ site.data.global.president.email }}](<mailto:{{ site.data.global.president.email }}>)
 
 
       **{{ site.data.global.sec-treas.name }}** &nbsp;*Secretary-Treasurer* <br>
 
-      [{{ site.data.officers.sec-treas.email }}](<mailto:{{ site.data.officers.president.email }}>)
+      [{{ site.data.global.sec-treas.email }}](<mailto:{{ site.data.global.president.email }}>)
 
 
       {% for officer in site.data.global.at-large %}
