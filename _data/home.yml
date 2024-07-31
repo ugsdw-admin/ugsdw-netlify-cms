@@ -8,6 +8,8 @@ banner:
     - name: JOIN
       accent: false
       link: /join
+    - name: CONTRACT
+      link: /resources/contract
 news:
   text: LATEST
   max-articles: 5
