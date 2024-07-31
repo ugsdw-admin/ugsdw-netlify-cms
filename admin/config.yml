@@ -29,7 +29,7 @@ collections: # A list of collections the CMS should be able to edit
     fields: 
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Link", name: "permalink", widget: "string" }
-      - { label: "No Sidebar", name: "nosidebar", widget: "boolean", default: true, required: false, hint: "Removes the sidebar from the page."}
+      - { label: "No Sidebar", name: "nosidebar", widget: "boolean", default: false, required: false, hint: "Removes the sidebar from the page."}
       - { label: "CSS", name: "css", widget: "hidden", default: "news-wrapper"}
       - label: "Page Contents"
         name: "contents"
