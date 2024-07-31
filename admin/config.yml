@@ -69,7 +69,7 @@ collections: # A list of collections the CMS should be able to edit
             name: "form"
             fields:
               - { label: "Link", name: "link", widget: "string", hint: "Use a EMBED link - click the three dots in the Google, look for Embed, and find the link in the embed code."}
-              - { label: "Size", name: "size", widget: "number", default: 4000 }
+              - { label: "Size", name: "size", widget: "number", default: 800 }
 
   - name: "config"
     label: "Data Configuration"
