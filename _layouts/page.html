@@ -110,6 +110,8 @@
                                         {% endfor %}
                                 {% endcase %}
                             </div>
+                        {% elsif item.type == "form" %}
+                        <iframe src="{{ item.link }}" class="frameless" height="{{ item.size }}" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
                         {% endif %}
                     {% endfor %}
                 {% else %}

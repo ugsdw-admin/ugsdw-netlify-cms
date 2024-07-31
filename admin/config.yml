@@ -55,7 +55,7 @@ collections: # A list of collections the CMS should be able to edit
               - { label: "Gold Button", name: "gold", widget: "boolean", default: false, required: false }
               - { label: "Link", name: "link", widget: "string" }
               - { label: "Text", name: "text", widget: "string" }
-          - label: "PDF"
+          - label: "PDF (Google)"
             name: "pdf"
             fields:
               - { label: "Link", name: "link", widget: "string", hint: "Use a EMBED link - click the three dots in the Google, look for Embed, and find the link in the embed code. It will have /preview on the end!"}
@@ -65,6 +65,12 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - { label: "Max # of Articles to Show", name: "limit", widget: "number" }
               - { label: "Archive Options", name: "archive-filter", widget: "string", hint: "Use all, archive-only, or recent-only (case sensitive)." }
+          - label: "Form (Google)"
+            name: "form"
+            fields:
+              - { label: "Link", name: "link", widget: "string", hint: "Use a EMBED link - click the three dots in the Google, look for Embed, and find the link in the embed code."}
+              - { label: "Size", name: "size", widget: "number", default: 4000 }
+
   - name: "config"
     label: "Data Configuration"
     editor:
