@@ -33,6 +33,7 @@ contents:
     gold: false
     link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=ugsdw.org@gmail.com&item_name=supporting+workplace+democracy+at+Grinnell%21&currency_code=USD&return=https%3A%2F%2Fwww.ugsdw.org%2Fdonate%2Fthank-you%2F
     text: Other
+  - type: break
   - type: text
     text: "*Please note that donations to UGSDW are not tax-deductible. As a
       nonprofit, how dues and donations are used is publicly available.*"
