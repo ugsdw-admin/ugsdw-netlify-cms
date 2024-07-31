@@ -5,12 +5,10 @@ nosidebar: false
 css: news-wrapper
 contents:
   - type: text
-    text: "# Latest News"
-  - type: break
-  - type: button
-    gold: false
-    link: /news-archive
-    text: Archived Posts
+    text: |-
+      # Latest News
+
+      [Find archived posts here](/news-archive)
   - type: news
     archive-filter: recent-only
     limit: 20
