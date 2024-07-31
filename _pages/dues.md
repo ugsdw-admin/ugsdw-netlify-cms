@@ -13,6 +13,7 @@ contents:
 
 
       The easiest way to pay dues is by filling out the Dues Check-Off Authorization form. Grinnell will automatically deduct dues from your paycheck. You can also [pay dues with Paypal](https://paypal.me/UGSDW) (suggested: $2/month, $8/semester, or $16/year). We do not collect dues in January, June, July, or August.
+  - type: break
   - type: pdf
     size: 800
     link: https://drive.google.com/file/d/1uVTv0z06ObxgjjtBlqn7zlP-H-s3TYbUX_7AixBwhzg/preview
