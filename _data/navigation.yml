@@ -10,8 +10,6 @@ left-center-button:
       link: /resources/contract
     - name: Your Rights
       link: /resources/rights
-    - name: FERPA Form
-      link: /resources/ferpa
     - name: Dues Form
       link: /resources/dues
 right-center-button:
