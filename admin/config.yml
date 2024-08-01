@@ -3,6 +3,10 @@ backend:
   branch: master # Branch to update (master by default)
 
 media_folder: "assets/uploads" # Folder where user uploaded files should go
+display_url: https://netlify.ugsdw.app #Link to site in Decap CMS
+logo_url: https://netlify.ugsdw.app/assets/logo_128.png #Logo inside Decap CMS
+
+
 
 collections: # A list of collections the CMS should be able to edit
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
