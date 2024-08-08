@@ -3,7 +3,7 @@ layout: post
 title: UGSDW Stands Against Iowa Abortion Ban
 subtitle: ""
 ---
-![Protesters march through Grinnell](/assets/uploads/20181214.uniondirectaction.009.jpg)
+![Protesters march through Grinnell](assets/uploads/20181214.uniondirectaction.009.jpg)
 
 GRINNELL, IOWA — The Union of Grinnell Student Dining Workers stands unequivocally against the dangerous, authoritarian, and unscientific six-week abortion ban that will take effect in Iowa today. 
 
