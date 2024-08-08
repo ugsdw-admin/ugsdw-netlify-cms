@@ -3,6 +3,8 @@ layout: post
 title: UGSDW Stands Against Iowa Abortion Ban
 subtitle: ""
 ---
+![](/assets/uploads/20181214.uniondirectaction.009.jpg)
+
 GRINNELL, IOWA — The Union of Grinnell Student Dining Workers stands unequivocally against the dangerous, authoritarian, and unscientific six-week abortion ban that will take effect in Iowa today. 
 
 The right of all people to exercise self-determination over their bodies and lives is a cornerstone of our fight in the labor movement. Everyone has the right to healthcare. That includes safe, effective and private access to abortion, birth control, reproductive healthcare, and information.
@@ -14,8 +16,6 @@ We call on Grinnell College to provide robust, material support to the Sexual He
 We encourage students to seek out the essential resources such as emergency contraception (Plan B), pregnancy testing, and peer education that SHIC student workers help to make available. Other resources include the Iowa Abortion Access Fund and the Chicago Abortion Fund, which have partnered to [provide abortion support to Iowa residents](https://www.iowaabortionaccessfund.org/services/). Finally, we must stand up for the people across Iowa and across the country for whom this legislation is tantamount to a death sentence.
 
 When politicians try to strip us of our rights, we keep each other safe. Now is the time to protect, care for, and defend each other’s healths and livelihoods. We will fight to protect these fundamental rights—and we must use all of the tools at our disposal to ensure abortion and reproductive healthcare remain safe and accessible for anybody who wants it.
-
-
 
 \###
 
