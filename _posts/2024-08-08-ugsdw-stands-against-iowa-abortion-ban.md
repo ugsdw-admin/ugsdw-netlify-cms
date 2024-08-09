@@ -5,7 +5,7 @@ subtitle: ""
 ---
 ![Protesters march through Grinnell](assets/uploads/20181214.uniondirectaction.009.jpg)
 
-GRINNELL, IOWA — The Union of Grinnell Student Dining Workers stands unequivocally against the dangerous, authoritarian, and unscientific six-week abortion ban that will take effect in Iowa today. 
+GRINNELL, IOWA — The Union of Grinnell Student Dining Workers stands unequivocally against the dangerous, authoritarian, and unscientific six-week abortion ban that took effect in Iowa last week. 
 
 The right of all people to exercise self-determination over their bodies and lives is a cornerstone of our fight in the labor movement. Everyone has the right to healthcare. That includes safe, effective and private access to abortion, birth control, reproductive healthcare, and information.
 
