@@ -1,7 +1,7 @@
 ---
 layout: post
 title: UGSDW Stands Against Iowa Abortion Ban
-subtitle: ""
+subtitle: The UGSDW Executive Board Stands Against the New Iowa Six-Week Abortion Ban
 ---
 ![Protesters march through Grinnell](assets/uploads/20181214.uniondirectaction.009.jpg)
 
