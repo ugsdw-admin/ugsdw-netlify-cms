@@ -26,4 +26,4 @@ right-center-button:
       link: /donate
 right-end-button:
   name: JOIN UGSDW
-  link: join
+  link: /join
