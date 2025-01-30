@@ -12,14 +12,12 @@ defaults:
         path: ""
       values:
         layout: default
-
     - scope:
         path: ""
         type: posts
       values:
         layout: post
         subtitle: 
-    
     - scope:
         path: "_pages"
         type: "pages"
