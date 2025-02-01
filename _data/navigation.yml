@@ -1,7 +1,9 @@
 left-end-button:
   name: Students
   link: ""
-  contents: []
+  contents:
+    - name: Pay Dues
+      link: /resources/dues
 left-center-button:
   name: Resources
   link: ""
