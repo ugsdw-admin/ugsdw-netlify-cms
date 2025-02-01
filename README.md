@@ -2,5 +2,5 @@
 
 <img src='/assets/logo_white.png' width="350">
 
-Credit to gold-leo and CoryMcCartan.
+Credit to [gold-leo](https://github.com/gold-leo) and [CoryMcCartan](https://github.com/CoryMcCartan).
 
