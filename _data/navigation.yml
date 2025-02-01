@@ -2,6 +2,8 @@ left-end-button:
   name: Students
   link: ""
   contents:
+    - name: Join the Union
+      link: /join
     - name: Pay Dues
       link: /resources/dues
 left-center-button:
