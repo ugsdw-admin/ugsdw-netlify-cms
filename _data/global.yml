@@ -41,8 +41,4 @@ at-large:
 press-secretary:
   name: Collective Position
   email: ugsdw.org@gmail.com
-advisors:
-  - name: Lena Wiebe
-    email: wiebelen@grinnell.edu
-  - name: Hannah Sweet
-    email: sweethan@grinnell.edu
+advisors: []
