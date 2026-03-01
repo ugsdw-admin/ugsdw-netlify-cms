@@ -15,30 +15,26 @@ president:
   name: Jasper Butler-Kurth
   email: ugsdw.org@gmail.com
 sec-treas:
-  name: Leo Goldman
-  email: goldmanleo@grinnell.edu
+  name: Kyra  Pruszinski and Mariposa Condron
+  email: pruszins@grinnell.edu and condronm@grinnell.edu
 at-large:
-  - name: Evan Broaddus
-    email: broaddus@grinnell.edu
-  - name: Jasper Butler-Kurth
-    email: butlerku@grinnell.edu
-  - name: Mariposa Condron
-    email: condronm@grinnell.edu
-  - name: Conrad Dahm
-    email: dahmconr@grinnell.edu
-  - name: Jackie Harris
-    email: harrisja2@grinnell.edu
-  - name: Miles Magee
-    email: mageemil@grinnell.edu
-  - name: Jacob McCorkle
-    email: mccorkle@grinnell.edu
   - name: Akira (Keene) Teotrakool
     email: teotrako@grinnell.edu
   - name: Donovan Wilcox
     email: wilcoxdo@grinnell.edu
   - name: Neva Zamil
     email: zamilnev@grinnell.edu
+  - name: Julie Howard
+    email: howardju@grinnell.edu
+  - name: Margo Male
+    email: malemarg@grinnell.edu
+  - name: Nate Richmond
+    email: richmond@grinnell.edu
 press-secretary:
   name: Collective Position
   email: ugsdw.org@gmail.com
-advisors: []
+advisors:
+  - name: Morgan Smith
+    email: smithmor@grinnell.edu
+  - name: Conrad Dahm
+    email: dahmconr@grinnell.edu
